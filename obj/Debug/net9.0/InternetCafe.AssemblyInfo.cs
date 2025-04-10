@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InternetCafe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98da397f57b5d56ec31e1fbff94a34f49a7b7afd")]
 [assembly: System.Reflection.AssemblyProductAttribute("InternetCafe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InternetCafe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
