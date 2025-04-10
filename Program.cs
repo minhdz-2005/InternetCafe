@@ -1,9 +1,27 @@
+using InternetCafe.Data;
+using InternetCafe.Services;
+using Microsoft.EntityFrameworkCore;
+using InternetCafe.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddDbContext<InternetCafeContext>(option =>
+    option.UseSqlServer(builder.Configuration.GetConnectionString("InternetCafe"))
+);
+
+builder.Services.AddScoped<ComputerSevice>();
+builder.Services.AddScoped<AccountSevice>();
+builder.Services.AddScoped<ManagerSevice>();
+builder.Services.AddScoped<UsedInfoSevice>();
+builder.Services.AddScoped<UserSevice>();
+
 var app = builder.Build();
+
+
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

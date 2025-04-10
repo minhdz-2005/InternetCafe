@@ -12,4 +12,10 @@ public class Computer {
     public decimal Cost { get; set; }
     [DefaultValue(false)]
     public bool Status { get; set; } 
+
+    public Computer() {}
+    public Computer (string name, decimal cost) {
+        Name = name;
+        Cost = cost;
+    }
 }

@@ -11,4 +11,11 @@ public class Account {
     public string? Password { get; set; }
     [Required]
     public string? Role { get; set; }
+
+    public Account() {}
+    public Account (string username, string password, string role) {
+        Username = username;
+        Password = password;
+        Role = role;
+    }
 }

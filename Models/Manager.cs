@@ -5,4 +5,9 @@ public class Manager {
     public int Id { get; set; }
     [Required]
     public string? Username { get; set; }
+    
+    public Manager() {}
+    public Manager (string username) {
+        Username = username;
+    }
 }
