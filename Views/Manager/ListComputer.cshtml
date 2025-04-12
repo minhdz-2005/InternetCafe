@@ -1,0 +1,57 @@
+@{
+    Layout = "Manager_Layout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List Computer</title>
+    <link rel="stylesheet" href="~/css/Manager/ListComputer.css">
+</head>
+<body>
+    <main class="mainsite mb-4">
+        <div class="mainBox text-center">
+            <span class="tableTitle">LIST COMPUTER</span>
+            <div class="addComp d-flex">
+                <form asp-action="AddComputer" asp-controller="Manager" method="get">
+                    <button class="btn addBtn">+ Add new computer</button>
+                </form>
+            </div>
+            <div class="tableBox bg-white">
+                <table class="table mt-4">
+                    <thead>
+                        <tr>
+                            <th class="id">ID</th>
+                            <th class="name">Name</th>
+                            <th class="cost">Cost</th>
+                            <th class="status">Status</th>
+                            <th class="update">Update</th>
+                            <th class="remove">Remove</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="rowItem">
+                            <td>1</td>
+                            <td>ASUS ROG TRIX</td>
+                            <td>5.78</td>
+                            <td>Off</td>
+                            <td>
+                                <form asp-action="UpdateComputer" asp-controller="Manager" method="get" class="bg-white">
+                                    <button class="btn editBtn">Edit</button>
+                                </form>
+                            </td>
+                            <td>
+                                <form asp-action="DeleteComputer" asp-controller="Manager" method="get" class="bg-white">
+                                    <button class="btn removeBtn">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

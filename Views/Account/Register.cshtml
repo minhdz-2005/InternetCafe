@@ -1,0 +1,65 @@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/Account/Register.css" asp-append-version="true">
+    <link href="https://fonts.googleapis.com/css2?family=Inria+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <p class="webname text-center mt-5 mb-3">INTERNET CAFÉ</p>
+    <main class="content">
+        <div class="register-box bg-white">
+            <p class="register text-center bg-white mt-2">REGISTER</p>
+            <form action="" method="post" class="bg-white">
+                <div class="nameBox mx-5 bg-white">
+                    <label class="nameLabel bg-white">Name</label>
+                    <input type="text" class="nameInput px-2 mx-2 bg-white" required>
+                </div>
+
+                <div class="phoneBox mx-5 bg-white">
+                    <label class="phoneLabel bg-white">Phone Number</label>
+                    <input type="text" class="phoneInput px-2 mx-2 bg-white" required>
+                </div>
+
+                <div class="usernameBox mx-5 mt-4 bg-white">
+                    <label class="usernameLabel bg-white">Username</label>
+                    <input type="text" class="usernameInput px-2 mx-2 bg-white" required>
+                </div>
+                
+                <div class="password mt-2 mx-5 mt-4 bg-white">
+                    <label class="passwordLabel bg-white">Password</label>
+                    <input type="password" class="passwordInput px-2 mx-2 bg-white" required>
+                </div>
+
+                <div class="confPassword mt-2 mx-5 bg-white">
+                    <label class="confPasswordLabel bg-white">Confirm Password</label>
+                    <input type="password" class="confPasswordInput px-2 mx-2 bg-white" required>
+                </div>
+
+                <div class="acceptBox mt-3 bg-white">
+                    <input type="checkbox" class="checkBox form-check-input me-2" required>
+                    <label class="checkboxLabel bg-white" for="">Accept term and privacy</label>
+                </div>
+
+                <div class="registerBtnBox mt-4 bg-white">
+                    <button class="registerBtn btn">Register</button>
+                </div>
+            </form>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-box">
+            <p class="contact text-center bg-white mb-2">Contact</p>
+            <p class="email text-center bg-white ">Email : minhphung2102@gmail.com</p>
+            <a href="#" class="facebook bg-white position-absolute start-50 translate-middle-x link-underline link-underline-opacity-0">Facebook : Minh Phung</a>
+        </div>
+    </footer>
+</body>
+</html>

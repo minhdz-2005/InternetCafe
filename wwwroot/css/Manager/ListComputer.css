@@ -1,0 +1,63 @@
+.list {
+    color: #fff;
+    background-color: #0A0076;
+}
+.addBtn {
+    color: #fff;
+    background-color: #0A0076;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px #cacaca;
+}
+.addBtn:hover {
+    color: #0A0076;
+    background-color: #f3f3f3;
+}
+.mainsite {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+.mainBox {
+    height: fit-content;
+    
+    
+}
+.tableTitle {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0px 4px 4px #cacaca;
+}
+.tableBox {
+    width: 800px;
+    height: fit-content;
+}
+.table {
+    box-shadow: 0px 4px 4px #cacaca;
+    table-layout: fixed;
+}
+.id {
+    width: 10%;
+}
+.name {
+    width: 30%;
+}
+.cost, .status, .update, .remove {
+    width: 15%;
+}
+.rowItem > td {
+    vertical-align: middle;
+    text-align: center;
+}
+.editBtn, .removeBtn {
+    border-radius: 10px;
+    width: 80px;
+    color: #fff;
+    box-shadow: 0px 4px 4px #cacaca;
+}
+.editBtn { background-color: #b8b81f;}
+.removeBtn { background-color: #c54747;}
+.editBtn:hover, .removeBtn:hover {
+    color: #0A0076;
+    background-color: #f3f3f3;
+}

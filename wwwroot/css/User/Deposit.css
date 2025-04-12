@@ -1,0 +1,56 @@
+.deposit {
+    color: #fff;
+    background-color: #0A0076;
+}
+.mainsite {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+.mainBox {
+    height: fit-content;
+}
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0px 4px 4px #cacaca;
+}
+.nameLabel, .costLabel {
+    font-size: 1.2rem;
+
+}
+
+.costInput {
+    float: right;
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid #ffffff;
+    box-shadow: 0px 4px 4px 0px #cacaca;
+}
+.costInput:focus {
+    outline: none;
+    border-bottom-color: #0A0076;
+    box-shadow: none;
+    transition: all 0.5s ease;
+}
+.confirmBtn {
+    background-color: #0A0076;
+    color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px 0px #cacaca;
+    float: right;
+}
+.confirmBtn:hover {
+    color: #0A0076;
+    background-color: #fff;
+}
+.cancelBtn {
+    border-radius: 10px;
+    float: left;
+}
+.cancelBtn:hover {
+    background-color: #f3f3f3;
+    color: #0A0076;
+}

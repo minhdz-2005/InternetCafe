@@ -1,0 +1,106 @@
+*, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f3f3f3;
+    font-family: 'Inria Sans', sans-serif;
+}
+.webname {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.content {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+}
+.register-box {
+    width: 400px;
+    height: 470px;
+    box-shadow: 0px 4px 4px 0px #cacaca;
+}
+.register {
+    font-size: 32px;
+    font-weight: bold;
+    color: #0A0076;
+}
+.nameLabel, .phoneLabel, .usernameLabel, .passwordLabel, .confPasswordLabel {
+    width: 70px;
+    color: #0A0076;
+}
+.nameInput, .phoneInput, .usernameInput, .passwordInput, .confPasswordInput {
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid #ffffff;
+    box-shadow: 0px 4px 4px 0px #cacaca;
+}
+.nameInput:focus, .phoneInput:focus, .usernameInput:focus, .passwordInput:focus, .confPasswordInput:focus {
+    outline: none;
+    border-bottom-color: #0A0076;
+    box-shadow: none;
+    transition: all 0.5s ease;
+}
+.acceptBox {
+    margin-left: 8rem;
+}
+.checkBox:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.checkboxLabel {
+    font-size: 12px;
+    color: #0A0076;
+}
+
+.registerBtnBox {
+    display: flex;
+    justify-content: center;
+}
+.registerBtn {
+    color: #fff;
+    background-color: #0A0076;
+    width: 90px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 4px 0px #cacaca;
+}
+.registerBtn:hover {
+    background: #f3f3f3;
+    transition: all 0.4s ease;
+}
+
+
+
+
+
+.footer-box {
+    
+    width: 100%;
+    height: 160px;
+    background-color: #fff;
+}
+.contact {
+    height: 52px;
+    color: #0A0076;
+    font-family: 'Inria Sans', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+}
+.email {
+    height: 21px;
+    color: #0A0076;
+    font-family: 'Inria Sans', sans-serif;
+    font-size: 16px;
+}
+.facebook {
+    color: #0A0076;
+}
+.facebook::after {
+    content: "";
+    flex: 1;
+}
+.facebook:not(:empty)::after {
+    margin-left: 89px;
+}

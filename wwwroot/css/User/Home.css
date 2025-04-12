@@ -1,0 +1,13 @@
+.home {
+    color: #fff;
+    background-color: #0A0076;
+}
+.mainsite {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+.mainBox {
+    height: fit-content;
+}

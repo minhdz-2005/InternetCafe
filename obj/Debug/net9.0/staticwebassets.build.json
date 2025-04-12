@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TAUSSpxhSA/S92v7Zp4pf+45XJrmtdVuUJvoPQhItrs=",
+  "Hash": "HkbaWpadE30CEJPqqP6FMLKIDPU70HVHHQcP6iKTMi0=",
   "Source": "InternetCafe",
   "BasePath": "_content/InternetCafe",
   "Mode": "Default",
@@ -36,6 +36,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\1ghf82ywd1-1bc0mjdv7l.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User/Home#[.{fingerprint=1bc0mjdv7l}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Home.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "d83tj8de65",
+      "Integrity": "nRgGRrhNGE5NvV9QdWxNXPRTs9/gKO62Pd6PZIcbM/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Home.css"
     },
     {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\1s5758l34m-mlv21k5csn.gz",
@@ -143,6 +164,48 @@
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\3tkf9jwk6h-95f2xbxlof.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User/HomeUsed#[.{fingerprint=95f2xbxlof}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsed.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qtazakj20n",
+      "Integrity": "chR7TI53oGvaov2RugmW8bJxnCPiIXqjkzsjJVoUQyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsed.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\4d9fpgvpgp-c0gsoclnpo.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Account/Register#[.{fingerprint=c0gsoclnpo}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Register.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9wuq4suvf6",
+      "Integrity": "6TKYoLPy0SVhZUHoXPRTAAMxi8zgZTZkkbMtVADwves=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Register.css"
+    },
+    {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\4xk7pe9qus-61n19gt1b8.gz",
       "SourceId": "InternetCafe",
       "SourceType": "Discovered",
@@ -246,6 +309,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\7dxa8dqops-e846qbodgu.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User/HomeUsing#[.{fingerprint=e846qbodgu}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsing.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "arg2271nos",
+      "Integrity": "qrAB3KPfcwnPO9qfulZTHVs7OB38nnLD6YrxV7u685I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsing.css"
     },
     {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\7egkoypgwl-06098lyss8.gz",
@@ -395,6 +479,27 @@
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\aqbznfs7eq-1t6qro1qey.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User/ListComputer#[.{fingerprint=1t6qro1qey}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\ListComputer.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0yp9d7efgx",
+      "Integrity": "aMv0J3XRcAz4C/BEiYH2l3glhLO8tuIeBmYXVWrnu0U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\ListComputer.css"
+    },
+    {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\bq5aygidnt-tdbxkamptv.gz",
       "SourceId": "InternetCafe",
       "SourceType": "Discovered",
@@ -435,6 +540,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\c78mz08p4m-vv2z7va1mi.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/RevenueByComputer#[.{fingerprint=vv2z7va1mi}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByComputer.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "aa19asuh5i",
+      "Integrity": "Pjess0M2UX6PoKX9gxp5OGya/k2PbGB/S2xjkWNgZxk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByComputer.css"
     },
     {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\cp4m9u40mw-jj8uyg4cgr.gz",
@@ -479,6 +605,48 @@
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\e5rwhy4x7j-ctmtqoo5rp.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/ListComputer#[.{fingerprint=ctmtqoo5rp}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\ListComputer.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "azydyd1pyp",
+      "Integrity": "Vvi0Fy5QZLgRE4/uWSgjCaMYSbravQRGpUF2rRMfwjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\ListComputer.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\fcej7qycg9-fhx6459zy1.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/AddComputer#[.{fingerprint=fhx6459zy1}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\AddComputer.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uq7cuctqyw",
+      "Integrity": "NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\AddComputer.css"
+    },
+    {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\g1lf0bvqe6-lzl9nlhx6b.gz",
       "SourceId": "InternetCafe",
       "SourceType": "Discovered",
@@ -498,27 +666,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\gdohnstydk-q0usn3u3ez.gz",
-      "SourceId": "InternetCafe",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/InternetCafe",
-      "RelativePath": "InternetCafe#[.{fingerprint=q0usn3u3ez}]?.styles.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\bundle\\InternetCafe.styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "0p2gtwit8i",
-      "Integrity": "pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\bundle\\InternetCafe.styles.css"
     },
     {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\gs5tyf6lnt-4v8eqarkd7.gz",
@@ -582,6 +729,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\h7trw09ggb-uqbdzzc3ak.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/DeleteComputer#[.{fingerprint=uqbdzzc3ak}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\DeleteComputer.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w4c7gvecrg",
+      "Integrity": "MAUytolv+hQS248Xg5xK1g+Lm+SfqCawgygdUgI7HVE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\DeleteComputer.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\hajjn7sqdr-lgct1fn9vt.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User_Layout#[.{fingerprint=lgct1fn9vt}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User_Layout.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lzslanlrmp",
+      "Integrity": "/2NEpq1McJvragK6FJwApFYKXZZiFtYqxFZwwVEHfHM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User_Layout.css"
     },
     {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\hjw0azop23-ttgo8qnofa.gz",
@@ -689,6 +878,27 @@
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\jvoskfraro-fhx6459zy1.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/UpdateComputer#[.{fingerprint=fhx6459zy1}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\UpdateComputer.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uq7cuctqyw",
+      "Integrity": "NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\UpdateComputer.css"
+    },
+    {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\jvvd2wa6e4-aexeepp0ev.gz",
       "SourceId": "InternetCafe",
       "SourceType": "Discovered",
@@ -750,6 +960,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\kehva37e5m-79x7kfpyvz.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/Home#[.{fingerprint=79x7kfpyvz}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\Home.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b6u0uclv8g",
+      "Integrity": "wzZfbwsk54Z9FBSN9BAD7ecBlI2pP8MVno0jeuOeXU4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\Home.css"
     },
     {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\koc3h048cv-ub07r2b239.gz",
@@ -1004,27 +1235,6 @@
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\o4vif24s30-q0usn3u3ez.gz",
-      "SourceId": "InternetCafe",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/InternetCafe",
-      "RelativePath": "InternetCafe#[.{fingerprint=q0usn3u3ez}]!.bundle.scp.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\InternetCafe.bundle.scp.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "0p2gtwit8i",
-      "Integrity": "pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\InternetCafe.bundle.scp.css"
-    },
-    {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\pdtyv2gf5m-d7shbmvgxk.gz",
       "SourceId": "InternetCafe",
       "SourceType": "Discovered",
@@ -1193,25 +1403,46 @@
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\uj26rq7m7e-b9sayid5wm.gz",
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ue5hri4c8f-jjz3eogyyo.gz",
       "SourceId": "InternetCafe",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/InternetCafe",
-      "RelativePath": "css/site#[.{fingerprint=b9sayid5wm}]?.css.gz",
+      "RelativePath": "css/User/Deposit#[.{fingerprint=jjz3eogyyo}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\site.css",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Deposit.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0suozzrugb",
-      "Integrity": "0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=",
+      "Fingerprint": "p8zs0pi4o3",
+      "Integrity": "acVaLu+7PJ0VmOssqw44tpfBmO4cfrSAawiqxqdl6uE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Deposit.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ukf9xltb05-3wq353yh35.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Account/Login#[.{fingerprint=3wq353yh35}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Login.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t31219rai3",
+      "Integrity": "GQeeMNFmPvBdlAMloIS2TNHnccC13bU7BfWEjaHomnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Login.css"
     },
     {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ulmu0pef37-notf2xhcfb.gz",
@@ -1298,6 +1529,27 @@
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\x7uvj97eg8-oazk0waz5w.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/RevenueByDate#[.{fingerprint=oazk0waz5w}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByDate.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "meovwwbcnv",
+      "Integrity": "Tt1CtZ7caWQzeHTUCB4QDcFU0pt7Z53MOKB/HXnS058=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByDate.css"
+    },
+    {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\xtxq8xmvmn-y7v9cxd14o.gz",
       "SourceId": "InternetCafe",
       "SourceType": "Discovered",
@@ -1340,6 +1592,27 @@
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ywmbivq7iy-6ymx6p9axh.gz",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager_Layout#[.{fingerprint=6ymx6p9axh}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager_Layout.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3mim9qpl7k",
+      "Integrity": "RdcpuJMF8sLLRZm1YZkUWlPfbUKDyU1NAID0YD0QSoM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager_Layout.css"
+    },
+    {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\zl60dnvp3e-iovd86k7lj.gz",
       "SourceId": "InternetCafe",
       "SourceType": "Discovered",
@@ -1361,54 +1634,12 @@
       "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\bundle\\InternetCafe.styles.css",
-      "SourceId": "InternetCafe",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/InternetCafe",
-      "RelativePath": "InternetCafe#[.{fingerprint}]?.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "q0usn3u3ez",
-      "Integrity": "Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\bundle\\InternetCafe.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\InternetCafe.bundle.scp.css",
-      "SourceId": "InternetCafe",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/InternetCafe",
-      "RelativePath": "InternetCafe#[.{fingerprint}]!.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "q0usn3u3ez",
-      "Integrity": "Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\InternetCafe.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Login.css",
       "SourceId": "InternetCafe",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
       "BasePath": "_content/InternetCafe",
-      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "RelativePath": "css/Account/Login#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1417,11 +1648,326 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b9sayid5wm",
-      "Integrity": "j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=",
+      "Fingerprint": "3wq353yh35",
+      "Integrity": "HeSzZ/f/lZj/o570Ld5VHUPJUomJRz0NxIGTb+TdM08=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot\\css\\Account\\Login.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Register.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Account/Register#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c0gsoclnpo",
+      "Integrity": "DBg4IIn0hykDNaG4Qenzk1VPMc9X05ruQqB3BuUH4Ws=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Account\\Register.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager_Layout.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager_Layout#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ymx6p9axh",
+      "Integrity": "kjPJygwvmCunntZXtHZDGP5vv/cSetdaxBv1U221Epo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Manager_Layout.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\AddComputer.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/AddComputer#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhx6459zy1",
+      "Integrity": "/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Manager\\AddComputer.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\DeleteComputer.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/DeleteComputer#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uqbdzzc3ak",
+      "Integrity": "SpSnYWafLgbtmvjXys3lOgSSER8siZ1quZtppzerlu8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Manager\\DeleteComputer.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\Home.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/Home#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "79x7kfpyvz",
+      "Integrity": "G+R9OsV18dAkbfjSLBkZbWPtg93460eSTK2vmKV5EtI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Manager\\Home.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\ListComputer.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/ListComputer#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ctmtqoo5rp",
+      "Integrity": "wJIe4jgkfYodkY6h5ra3qzm9pivsVIND9Vzz2reJvek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Manager\\ListComputer.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByComputer.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/RevenueByComputer#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vv2z7va1mi",
+      "Integrity": "peMGT6gSpASKBZDd5T0RSkuxtY2NAV4wyiDPtwg7r6A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Manager\\RevenueByComputer.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByDate.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/RevenueByDate#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oazk0waz5w",
+      "Integrity": "UDBe6GYByemluccNg7spg7AoR8x5IShVpPtO4ub8eVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Manager\\RevenueByDate.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\UpdateComputer.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/Manager/UpdateComputer#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fhx6459zy1",
+      "Integrity": "/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Manager\\UpdateComputer.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User_Layout.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User_Layout#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lgct1fn9vt",
+      "Integrity": "qy6kCEJYRqaSieiFkQmmQIR+4PYR/ENJRllQjaGnjhw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\User_Layout.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Deposit.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User/Deposit#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jjz3eogyyo",
+      "Integrity": "UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\User\\Deposit.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Home.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User/Home#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1bc0mjdv7l",
+      "Integrity": "TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\User\\Home.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsed.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User/HomeUsed#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "95f2xbxlof",
+      "Integrity": "0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\User\\HomeUsed.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsing.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User/HomeUsing#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e846qbodgu",
+      "Integrity": "En+B4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\User\\HomeUsing.css"
+    },
+    {
+      "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\ListComputer.css",
+      "SourceId": "InternetCafe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\",
+      "BasePath": "_content/InternetCafe",
+      "RelativePath": "css/User/ListComputer#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1t6qro1qey",
+      "Integrity": "C3AiPCF3oDHcZp1pWyK9lUBSJaU74ZAE0kEl8403BcM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\User\\ListComputer.css"
     },
     {
       "Identity": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\favicon.ico",
@@ -2728,13 +3274,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\uj26rq7m7e-b9sayid5wm.gz",
+      "Route": "css/Account/Login.3wq353yh35.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ukf9xltb05-3wq353yh35.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.001497005988"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +3290,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "667"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"GQeeMNFmPvBdlAMloIS2TNHnccC13bU7BfWEjaHomnE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:04 GMT"
+          "Value": "Fri, 11 Apr 2025 19:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,27 +3318,72 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"HeSzZ/f/lZj/o570Ld5VHUPJUomJRz0NxIGTb+TdM08=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "3wq353yh35"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/Account/Login.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-HeSzZ/f/lZj/o570Ld5VHUPJUomJRz0NxIGTb+TdM08="
         }
       ]
     },
     {
-      "Route": "css/site.b9sayid5wm.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\site.css",
+      "Route": "css/Account/Login.3wq353yh35.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeSzZ/f/lZj/o570Ld5VHUPJUomJRz0NxIGTb+TdM08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 19:15:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3wq353yh35"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Account/Login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeSzZ/f/lZj/o570Ld5VHUPJUomJRz0NxIGTb+TdM08="
+        }
+      ]
+    },
+    {
+      "Route": "css/Account/Login.3wq353yh35.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ukf9xltb05-3wq353yh35.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2809,56 +3400,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"GQeeMNFmPvBdlAMloIS2TNHnccC13bU7BfWEjaHomnE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9sayid5wm"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.b9sayid5wm.css.gz",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\uj26rq7m7e-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:04 GMT"
+          "Value": "Fri, 11 Apr 2025 19:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2876,26 +3422,26 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b9sayid5wm"
+          "Value": "3wq353yh35"
         },
         {
           "Name": "label",
-          "Value": "css/site.css.gz"
+          "Value": "css/Account/Login.css.gz"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-GQeeMNFmPvBdlAMloIS2TNHnccC13bU7BfWEjaHomnE="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\uj26rq7m7e-b9sayid5wm.gz",
+      "Route": "css/Account/Login.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ukf9xltb05-3wq353yh35.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003134796238"
+          "Quality": "0.001497005988"
         }
       ],
       "ResponseHeaders": [
@@ -2905,15 +3451,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "318"
+          "Value": "667"
         },
         {
           "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
+          "Value": "\"GQeeMNFmPvBdlAMloIS2TNHnccC13bU7BfWEjaHomnE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:04 GMT"
+          "Value": "Fri, 11 Apr 2025 19:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2933,19 +3479,56 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "W/\"HeSzZ/f/lZj/o570Ld5VHUPJUomJRz0NxIGTb+TdM08=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
+          "Value": "sha256-HeSzZ/f/lZj/o570Ld5VHUPJUomJRz0NxIGTb+TdM08="
         }
       ]
     },
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\site.css",
+      "Route": "css/Account/Login.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeSzZ/f/lZj/o570Ld5VHUPJUomJRz0NxIGTb+TdM08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 19:15:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeSzZ/f/lZj/o570Ld5VHUPJUomJRz0NxIGTb+TdM08="
+        }
+      ]
+    },
+    {
+      "Route": "css/Account/Login.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ukf9xltb05-3wq353yh35.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2962,48 +3545,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\""
+          "Value": "\"GQeeMNFmPvBdlAMloIS2TNHnccC13bU7BfWEjaHomnE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:04 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\uj26rq7m7e-b9sayid5wm.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "318"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:04 GMT"
+          "Value": "Fri, 11 Apr 2025 19:15:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3021,7 +3567,4477 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0FC1RbVkLkwKhJ1oi+r2Hw4Tm9av6DyJeo95YVvfA3Y="
+          "Value": "sha256-GQeeMNFmPvBdlAMloIS2TNHnccC13bU7BfWEjaHomnE="
+        }
+      ]
+    },
+    {
+      "Route": "css/Account/Register.c0gsoclnpo.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\4d9fpgvpgp-c0gsoclnpo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001557632399"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "641"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6TKYoLPy0SVhZUHoXPRTAAMxi8zgZTZkkbMtVADwves=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DBg4IIn0hykDNaG4Qenzk1VPMc9X05ruQqB3BuUH4Ws=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c0gsoclnpo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Account/Register.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DBg4IIn0hykDNaG4Qenzk1VPMc9X05ruQqB3BuUH4Ws="
+        }
+      ]
+    },
+    {
+      "Route": "css/Account/Register.c0gsoclnpo.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Register.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DBg4IIn0hykDNaG4Qenzk1VPMc9X05ruQqB3BuUH4Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c0gsoclnpo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Account/Register.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DBg4IIn0hykDNaG4Qenzk1VPMc9X05ruQqB3BuUH4Ws="
+        }
+      ]
+    },
+    {
+      "Route": "css/Account/Register.c0gsoclnpo.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\4d9fpgvpgp-c0gsoclnpo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6TKYoLPy0SVhZUHoXPRTAAMxi8zgZTZkkbMtVADwves=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c0gsoclnpo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Account/Register.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6TKYoLPy0SVhZUHoXPRTAAMxi8zgZTZkkbMtVADwves="
+        }
+      ]
+    },
+    {
+      "Route": "css/Account/Register.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\4d9fpgvpgp-c0gsoclnpo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001557632399"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "641"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6TKYoLPy0SVhZUHoXPRTAAMxi8zgZTZkkbMtVADwves=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DBg4IIn0hykDNaG4Qenzk1VPMc9X05ruQqB3BuUH4Ws=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DBg4IIn0hykDNaG4Qenzk1VPMc9X05ruQqB3BuUH4Ws="
+        }
+      ]
+    },
+    {
+      "Route": "css/Account/Register.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Register.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DBg4IIn0hykDNaG4Qenzk1VPMc9X05ruQqB3BuUH4Ws=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DBg4IIn0hykDNaG4Qenzk1VPMc9X05ruQqB3BuUH4Ws="
+        }
+      ]
+    },
+    {
+      "Route": "css/Account/Register.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\4d9fpgvpgp-c0gsoclnpo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6TKYoLPy0SVhZUHoXPRTAAMxi8zgZTZkkbMtVADwves=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 03:50:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6TKYoLPy0SVhZUHoXPRTAAMxi8zgZTZkkbMtVADwves="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager_Layout.6ymx6p9axh.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ywmbivq7iy-6ymx6p9axh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002169197397"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "460"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RdcpuJMF8sLLRZm1YZkUWlPfbUKDyU1NAID0YD0QSoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 07:41:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kjPJygwvmCunntZXtHZDGP5vv/cSetdaxBv1U221Epo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ymx6p9axh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager_Layout.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjPJygwvmCunntZXtHZDGP5vv/cSetdaxBv1U221Epo="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager_Layout.6ymx6p9axh.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager_Layout.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjPJygwvmCunntZXtHZDGP5vv/cSetdaxBv1U221Epo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 07:41:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ymx6p9axh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager_Layout.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjPJygwvmCunntZXtHZDGP5vv/cSetdaxBv1U221Epo="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager_Layout.6ymx6p9axh.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ywmbivq7iy-6ymx6p9axh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RdcpuJMF8sLLRZm1YZkUWlPfbUKDyU1NAID0YD0QSoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 07:41:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ymx6p9axh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager_Layout.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RdcpuJMF8sLLRZm1YZkUWlPfbUKDyU1NAID0YD0QSoM="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager_Layout.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ywmbivq7iy-6ymx6p9axh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002169197397"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "460"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RdcpuJMF8sLLRZm1YZkUWlPfbUKDyU1NAID0YD0QSoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 07:41:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kjPJygwvmCunntZXtHZDGP5vv/cSetdaxBv1U221Epo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjPJygwvmCunntZXtHZDGP5vv/cSetdaxBv1U221Epo="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager_Layout.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager_Layout.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kjPJygwvmCunntZXtHZDGP5vv/cSetdaxBv1U221Epo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 07:41:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kjPJygwvmCunntZXtHZDGP5vv/cSetdaxBv1U221Epo="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager_Layout.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ywmbivq7iy-6ymx6p9axh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RdcpuJMF8sLLRZm1YZkUWlPfbUKDyU1NAID0YD0QSoM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 07:41:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RdcpuJMF8sLLRZm1YZkUWlPfbUKDyU1NAID0YD0QSoM="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/AddComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\fcej7qycg9-fhx6459zy1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:42:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/AddComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\AddComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:42:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/AddComputer.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\fcej7qycg9-fhx6459zy1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:42:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/AddComputer.fhx6459zy1.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\fcej7qycg9-fhx6459zy1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:42:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhx6459zy1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/AddComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/AddComputer.fhx6459zy1.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\AddComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:42:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhx6459zy1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/AddComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/AddComputer.fhx6459zy1.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\fcej7qycg9-fhx6459zy1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 14:42:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhx6459zy1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/AddComputer.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/DeleteComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\h7trw09ggb-uqbdzzc3ak.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002325581395"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MAUytolv+hQS248Xg5xK1g+Lm+SfqCawgygdUgI7HVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SpSnYWafLgbtmvjXys3lOgSSER8siZ1quZtppzerlu8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SpSnYWafLgbtmvjXys3lOgSSER8siZ1quZtppzerlu8="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/DeleteComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\DeleteComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SpSnYWafLgbtmvjXys3lOgSSER8siZ1quZtppzerlu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SpSnYWafLgbtmvjXys3lOgSSER8siZ1quZtppzerlu8="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/DeleteComputer.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\h7trw09ggb-uqbdzzc3ak.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MAUytolv+hQS248Xg5xK1g+Lm+SfqCawgygdUgI7HVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MAUytolv+hQS248Xg5xK1g+Lm+SfqCawgygdUgI7HVE="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/DeleteComputer.uqbdzzc3ak.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\h7trw09ggb-uqbdzzc3ak.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002325581395"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MAUytolv+hQS248Xg5xK1g+Lm+SfqCawgygdUgI7HVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SpSnYWafLgbtmvjXys3lOgSSER8siZ1quZtppzerlu8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqbdzzc3ak"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/DeleteComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SpSnYWafLgbtmvjXys3lOgSSER8siZ1quZtppzerlu8="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/DeleteComputer.uqbdzzc3ak.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\DeleteComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1068"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SpSnYWafLgbtmvjXys3lOgSSER8siZ1quZtppzerlu8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqbdzzc3ak"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/DeleteComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SpSnYWafLgbtmvjXys3lOgSSER8siZ1quZtppzerlu8="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/DeleteComputer.uqbdzzc3ak.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\h7trw09ggb-uqbdzzc3ak.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MAUytolv+hQS248Xg5xK1g+Lm+SfqCawgygdUgI7HVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:28:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uqbdzzc3ak"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/DeleteComputer.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MAUytolv+hQS248Xg5xK1g+Lm+SfqCawgygdUgI7HVE="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/Home.79x7kfpyvz.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\kehva37e5m-79x7kfpyvz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003773584906"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wzZfbwsk54Z9FBSN9BAD7ecBlI2pP8MVno0jeuOeXU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"G+R9OsV18dAkbfjSLBkZbWPtg93460eSTK2vmKV5EtI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79x7kfpyvz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G+R9OsV18dAkbfjSLBkZbWPtg93460eSTK2vmKV5EtI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/Home.79x7kfpyvz.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G+R9OsV18dAkbfjSLBkZbWPtg93460eSTK2vmKV5EtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79x7kfpyvz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G+R9OsV18dAkbfjSLBkZbWPtg93460eSTK2vmKV5EtI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/Home.79x7kfpyvz.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\kehva37e5m-79x7kfpyvz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wzZfbwsk54Z9FBSN9BAD7ecBlI2pP8MVno0jeuOeXU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79x7kfpyvz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/Home.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wzZfbwsk54Z9FBSN9BAD7ecBlI2pP8MVno0jeuOeXU4="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/Home.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\kehva37e5m-79x7kfpyvz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003773584906"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wzZfbwsk54Z9FBSN9BAD7ecBlI2pP8MVno0jeuOeXU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"G+R9OsV18dAkbfjSLBkZbWPtg93460eSTK2vmKV5EtI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G+R9OsV18dAkbfjSLBkZbWPtg93460eSTK2vmKV5EtI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/Home.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G+R9OsV18dAkbfjSLBkZbWPtg93460eSTK2vmKV5EtI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G+R9OsV18dAkbfjSLBkZbWPtg93460eSTK2vmKV5EtI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/Home.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\kehva37e5m-79x7kfpyvz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wzZfbwsk54Z9FBSN9BAD7ecBlI2pP8MVno0jeuOeXU4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:42:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wzZfbwsk54Z9FBSN9BAD7ecBlI2pP8MVno0jeuOeXU4="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/ListComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\e5rwhy4x7j-ctmtqoo5rp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002364066194"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "422"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vvi0Fy5QZLgRE4/uWSgjCaMYSbravQRGpUF2rRMfwjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wJIe4jgkfYodkY6h5ra3qzm9pivsVIND9Vzz2reJvek=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJIe4jgkfYodkY6h5ra3qzm9pivsVIND9Vzz2reJvek="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/ListComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\ListComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wJIe4jgkfYodkY6h5ra3qzm9pivsVIND9Vzz2reJvek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJIe4jgkfYodkY6h5ra3qzm9pivsVIND9Vzz2reJvek="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/ListComputer.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\e5rwhy4x7j-ctmtqoo5rp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vvi0Fy5QZLgRE4/uWSgjCaMYSbravQRGpUF2rRMfwjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vvi0Fy5QZLgRE4/uWSgjCaMYSbravQRGpUF2rRMfwjI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/ListComputer.ctmtqoo5rp.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\e5rwhy4x7j-ctmtqoo5rp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002364066194"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "422"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vvi0Fy5QZLgRE4/uWSgjCaMYSbravQRGpUF2rRMfwjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"wJIe4jgkfYodkY6h5ra3qzm9pivsVIND9Vzz2reJvek=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctmtqoo5rp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/ListComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJIe4jgkfYodkY6h5ra3qzm9pivsVIND9Vzz2reJvek="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/ListComputer.ctmtqoo5rp.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\ListComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wJIe4jgkfYodkY6h5ra3qzm9pivsVIND9Vzz2reJvek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctmtqoo5rp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/ListComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wJIe4jgkfYodkY6h5ra3qzm9pivsVIND9Vzz2reJvek="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/ListComputer.ctmtqoo5rp.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\e5rwhy4x7j-ctmtqoo5rp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "422"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vvi0Fy5QZLgRE4/uWSgjCaMYSbravQRGpUF2rRMfwjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:55:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctmtqoo5rp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/ListComputer.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vvi0Fy5QZLgRE4/uWSgjCaMYSbravQRGpUF2rRMfwjI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\c78mz08p4m-vv2z7va1mi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002695417790"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pjess0M2UX6PoKX9gxp5OGya/k2PbGB/S2xjkWNgZxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:11:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"peMGT6gSpASKBZDd5T0RSkuxtY2NAV4wyiDPtwg7r6A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-peMGT6gSpASKBZDd5T0RSkuxtY2NAV4wyiDPtwg7r6A="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peMGT6gSpASKBZDd5T0RSkuxtY2NAV4wyiDPtwg7r6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:11:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-peMGT6gSpASKBZDd5T0RSkuxtY2NAV4wyiDPtwg7r6A="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByComputer.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\c78mz08p4m-vv2z7va1mi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pjess0M2UX6PoKX9gxp5OGya/k2PbGB/S2xjkWNgZxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:11:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pjess0M2UX6PoKX9gxp5OGya/k2PbGB/S2xjkWNgZxk="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByComputer.vv2z7va1mi.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\c78mz08p4m-vv2z7va1mi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002695417790"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pjess0M2UX6PoKX9gxp5OGya/k2PbGB/S2xjkWNgZxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:11:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"peMGT6gSpASKBZDd5T0RSkuxtY2NAV4wyiDPtwg7r6A=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv2z7va1mi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/RevenueByComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-peMGT6gSpASKBZDd5T0RSkuxtY2NAV4wyiDPtwg7r6A="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByComputer.vv2z7va1mi.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "959"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"peMGT6gSpASKBZDd5T0RSkuxtY2NAV4wyiDPtwg7r6A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:11:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv2z7va1mi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/RevenueByComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-peMGT6gSpASKBZDd5T0RSkuxtY2NAV4wyiDPtwg7r6A="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByComputer.vv2z7va1mi.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\c78mz08p4m-vv2z7va1mi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pjess0M2UX6PoKX9gxp5OGya/k2PbGB/S2xjkWNgZxk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:11:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vv2z7va1mi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/RevenueByComputer.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pjess0M2UX6PoKX9gxp5OGya/k2PbGB/S2xjkWNgZxk="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByDate.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\x7uvj97eg8-oazk0waz5w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002762430939"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tt1CtZ7caWQzeHTUCB4QDcFU0pt7Z53MOKB/HXnS058=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:17:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UDBe6GYByemluccNg7spg7AoR8x5IShVpPtO4ub8eVc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDBe6GYByemluccNg7spg7AoR8x5IShVpPtO4ub8eVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByDate.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByDate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDBe6GYByemluccNg7spg7AoR8x5IShVpPtO4ub8eVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:17:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDBe6GYByemluccNg7spg7AoR8x5IShVpPtO4ub8eVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByDate.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\x7uvj97eg8-oazk0waz5w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tt1CtZ7caWQzeHTUCB4QDcFU0pt7Z53MOKB/HXnS058=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:17:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tt1CtZ7caWQzeHTUCB4QDcFU0pt7Z53MOKB/HXnS058="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByDate.oazk0waz5w.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\x7uvj97eg8-oazk0waz5w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002762430939"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tt1CtZ7caWQzeHTUCB4QDcFU0pt7Z53MOKB/HXnS058=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:17:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UDBe6GYByemluccNg7spg7AoR8x5IShVpPtO4ub8eVc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oazk0waz5w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/RevenueByDate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDBe6GYByemluccNg7spg7AoR8x5IShVpPtO4ub8eVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByDate.oazk0waz5w.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByDate.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDBe6GYByemluccNg7spg7AoR8x5IShVpPtO4ub8eVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:17:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oazk0waz5w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/RevenueByDate.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDBe6GYByemluccNg7spg7AoR8x5IShVpPtO4ub8eVc="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/RevenueByDate.oazk0waz5w.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\x7uvj97eg8-oazk0waz5w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "361"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tt1CtZ7caWQzeHTUCB4QDcFU0pt7Z53MOKB/HXnS058=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 10:17:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oazk0waz5w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/RevenueByDate.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tt1CtZ7caWQzeHTUCB4QDcFU0pt7Z53MOKB/HXnS058="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/UpdateComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\jvoskfraro-fhx6459zy1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/UpdateComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\UpdateComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/UpdateComputer.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\jvoskfraro-fhx6459zy1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/UpdateComputer.fhx6459zy1.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\jvoskfraro-fhx6459zy1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhx6459zy1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/UpdateComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/UpdateComputer.fhx6459zy1.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\UpdateComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhx6459zy1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/UpdateComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/QhPZPyT1Uvdmic6aNX3lL9brXuyYlmbWUf8v3kTxpI="
+        }
+      ]
+    },
+    {
+      "Route": "css/Manager/UpdateComputer.fhx6459zy1.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\jvoskfraro-fhx6459zy1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 15:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fhx6459zy1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Manager/UpdateComputer.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NpCiVvHVvYJiLcejUiu+YRx27B6JilGjiuUMADrCP94="
+        }
+      ]
+    },
+    {
+      "Route": "css/User_Layout.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\hajjn7sqdr-lgct1fn9vt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001996007984"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2NEpq1McJvragK6FJwApFYKXZZiFtYqxFZwwVEHfHM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:56:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qy6kCEJYRqaSieiFkQmmQIR+4PYR/ENJRllQjaGnjhw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qy6kCEJYRqaSieiFkQmmQIR+4PYR/ENJRllQjaGnjhw="
+        }
+      ]
+    },
+    {
+      "Route": "css/User_Layout.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User_Layout.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qy6kCEJYRqaSieiFkQmmQIR+4PYR/ENJRllQjaGnjhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:56:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qy6kCEJYRqaSieiFkQmmQIR+4PYR/ENJRllQjaGnjhw="
+        }
+      ]
+    },
+    {
+      "Route": "css/User_Layout.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\hajjn7sqdr-lgct1fn9vt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2NEpq1McJvragK6FJwApFYKXZZiFtYqxFZwwVEHfHM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:56:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2NEpq1McJvragK6FJwApFYKXZZiFtYqxFZwwVEHfHM="
+        }
+      ]
+    },
+    {
+      "Route": "css/User_Layout.lgct1fn9vt.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\hajjn7sqdr-lgct1fn9vt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001996007984"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2NEpq1McJvragK6FJwApFYKXZZiFtYqxFZwwVEHfHM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:56:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qy6kCEJYRqaSieiFkQmmQIR+4PYR/ENJRllQjaGnjhw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lgct1fn9vt"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User_Layout.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qy6kCEJYRqaSieiFkQmmQIR+4PYR/ENJRllQjaGnjhw="
+        }
+      ]
+    },
+    {
+      "Route": "css/User_Layout.lgct1fn9vt.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User_Layout.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1402"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qy6kCEJYRqaSieiFkQmmQIR+4PYR/ENJRllQjaGnjhw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:56:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lgct1fn9vt"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User_Layout.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qy6kCEJYRqaSieiFkQmmQIR+4PYR/ENJRllQjaGnjhw="
+        }
+      ]
+    },
+    {
+      "Route": "css/User_Layout.lgct1fn9vt.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\hajjn7sqdr-lgct1fn9vt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "500"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/2NEpq1McJvragK6FJwApFYKXZZiFtYqxFZwwVEHfHM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 16:56:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lgct1fn9vt"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User_Layout.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2NEpq1McJvragK6FJwApFYKXZZiFtYqxFZwwVEHfHM="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Deposit.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ue5hri4c8f-jjz3eogyyo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002457002457"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "406"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"acVaLu+7PJ0VmOssqw44tpfBmO4cfrSAawiqxqdl6uE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:54:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Deposit.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Deposit.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:54:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Deposit.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ue5hri4c8f-jjz3eogyyo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"acVaLu+7PJ0VmOssqw44tpfBmO4cfrSAawiqxqdl6uE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:54:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-acVaLu+7PJ0VmOssqw44tpfBmO4cfrSAawiqxqdl6uE="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Deposit.jjz3eogyyo.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ue5hri4c8f-jjz3eogyyo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002457002457"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "406"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"acVaLu+7PJ0VmOssqw44tpfBmO4cfrSAawiqxqdl6uE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:54:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jjz3eogyyo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/Deposit.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Deposit.jjz3eogyyo.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Deposit.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:54:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jjz3eogyyo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/Deposit.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Deposit.jjz3eogyyo.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\ue5hri4c8f-jjz3eogyyo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"acVaLu+7PJ0VmOssqw44tpfBmO4cfrSAawiqxqdl6uE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:54:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jjz3eogyyo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/Deposit.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-acVaLu+7PJ0VmOssqw44tpfBmO4cfrSAawiqxqdl6uE="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Home.1bc0mjdv7l.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\1ghf82ywd1-1bc0mjdv7l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006535947712"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRgGRrhNGE5NvV9QdWxNXPRTs9/gKO62Pd6PZIcbM/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1bc0mjdv7l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Home.1bc0mjdv7l.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1bc0mjdv7l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Home.1bc0mjdv7l.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\1ghf82ywd1-1bc0mjdv7l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRgGRrhNGE5NvV9QdWxNXPRTs9/gKO62Pd6PZIcbM/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1bc0mjdv7l"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/Home.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRgGRrhNGE5NvV9QdWxNXPRTs9/gKO62Pd6PZIcbM/4="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Home.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\1ghf82ywd1-1bc0mjdv7l.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006535947712"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRgGRrhNGE5NvV9QdWxNXPRTs9/gKO62Pd6PZIcbM/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Home.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/Home.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\1ghf82ywd1-1bc0mjdv7l.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRgGRrhNGE5NvV9QdWxNXPRTs9/gKO62Pd6PZIcbM/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:33:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRgGRrhNGE5NvV9QdWxNXPRTs9/gKO62Pd6PZIcbM/4="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsed.95f2xbxlof.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\3tkf9jwk6h-95f2xbxlof.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002314814815"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"chR7TI53oGvaov2RugmW8bJxnCPiIXqjkzsjJVoUQyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95f2xbxlof"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/HomeUsed.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsed.95f2xbxlof.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsed.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95f2xbxlof"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/HomeUsed.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsed.95f2xbxlof.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\3tkf9jwk6h-95f2xbxlof.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"chR7TI53oGvaov2RugmW8bJxnCPiIXqjkzsjJVoUQyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "95f2xbxlof"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/HomeUsed.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-chR7TI53oGvaov2RugmW8bJxnCPiIXqjkzsjJVoUQyg="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsed.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\3tkf9jwk6h-95f2xbxlof.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002314814815"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"chR7TI53oGvaov2RugmW8bJxnCPiIXqjkzsjJVoUQyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsed.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsed.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsed.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\3tkf9jwk6h-95f2xbxlof.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"chR7TI53oGvaov2RugmW8bJxnCPiIXqjkzsjJVoUQyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:13:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-chR7TI53oGvaov2RugmW8bJxnCPiIXqjkzsjJVoUQyg="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsing.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\7dxa8dqops-e846qbodgu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002409638554"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qrAB3KPfcwnPO9qfulZTHVs7OB38nnLD6YrxV7u685I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"En+B4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-En+B4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsing.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsing.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"En+B4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-En+B4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsing.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\7dxa8dqops-e846qbodgu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qrAB3KPfcwnPO9qfulZTHVs7OB38nnLD6YrxV7u685I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qrAB3KPfcwnPO9qfulZTHVs7OB38nnLD6YrxV7u685I="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsing.e846qbodgu.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\7dxa8dqops-e846qbodgu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002409638554"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qrAB3KPfcwnPO9qfulZTHVs7OB38nnLD6YrxV7u685I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"En+B4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e846qbodgu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/HomeUsing.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-En+B4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsing.e846qbodgu.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsing.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "985"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"En+B4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e846qbodgu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/HomeUsing.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-En+B4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/HomeUsing.e846qbodgu.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\7dxa8dqops-e846qbodgu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qrAB3KPfcwnPO9qfulZTHVs7OB38nnLD6YrxV7u685I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 18:08:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e846qbodgu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/HomeUsing.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qrAB3KPfcwnPO9qfulZTHVs7OB38nnLD6YrxV7u685I="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/ListComputer.1t6qro1qey.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\aqbznfs7eq-1t6qro1qey.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aMv0J3XRcAz4C/BEiYH2l3glhLO8tuIeBmYXVWrnu0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:27:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C3AiPCF3oDHcZp1pWyK9lUBSJaU74ZAE0kEl8403BcM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1t6qro1qey"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/ListComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3AiPCF3oDHcZp1pWyK9lUBSJaU74ZAE0kEl8403BcM="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/ListComputer.1t6qro1qey.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\ListComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3AiPCF3oDHcZp1pWyK9lUBSJaU74ZAE0kEl8403BcM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:27:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1t6qro1qey"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/ListComputer.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3AiPCF3oDHcZp1pWyK9lUBSJaU74ZAE0kEl8403BcM="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/ListComputer.1t6qro1qey.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\aqbznfs7eq-1t6qro1qey.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aMv0J3XRcAz4C/BEiYH2l3glhLO8tuIeBmYXVWrnu0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:27:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1t6qro1qey"
+        },
+        {
+          "Name": "label",
+          "Value": "css/User/ListComputer.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aMv0J3XRcAz4C/BEiYH2l3glhLO8tuIeBmYXVWrnu0U="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/ListComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\aqbznfs7eq-1t6qro1qey.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002739726027"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aMv0J3XRcAz4C/BEiYH2l3glhLO8tuIeBmYXVWrnu0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:27:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"C3AiPCF3oDHcZp1pWyK9lUBSJaU74ZAE0kEl8403BcM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3AiPCF3oDHcZp1pWyK9lUBSJaU74ZAE0kEl8403BcM="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/ListComputer.css",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\ListComputer.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "832"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C3AiPCF3oDHcZp1pWyK9lUBSJaU74ZAE0kEl8403BcM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:27:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C3AiPCF3oDHcZp1pWyK9lUBSJaU74ZAE0kEl8403BcM="
+        }
+      ]
+    },
+    {
+      "Route": "css/User/ListComputer.css.gz",
+      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\aqbznfs7eq-1t6qro1qey.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "364"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aMv0J3XRcAz4C/BEiYH2l3glhLO8tuIeBmYXVWrnu0U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 12 Apr 2025 17:27:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aMv0J3XRcAz4C/BEiYH2l3glhLO8tuIeBmYXVWrnu0U="
         }
       ]
     },
@@ -3320,602 +8336,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.bundle.scp.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\o4vif24s30-q0usn3u3ez.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001838235294"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "543"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.bundle.scp.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\InternetCafe.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1130"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\o4vif24s30-q0usn3u3ez.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "543"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.q0usn3u3ez.bundle.scp.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\o4vif24s30-q0usn3u3ez.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001838235294"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "543"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q0usn3u3ez"
-        },
-        {
-          "Name": "label",
-          "Value": "InternetCafe.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.q0usn3u3ez.bundle.scp.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\InternetCafe.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1130"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q0usn3u3ez"
-        },
-        {
-          "Name": "label",
-          "Value": "InternetCafe.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.q0usn3u3ez.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\o4vif24s30-q0usn3u3ez.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "543"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q0usn3u3ez"
-        },
-        {
-          "Name": "label",
-          "Value": "InternetCafe.bundle.scp.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.q0usn3u3ez.styles.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\gdohnstydk-q0usn3u3ez.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001838235294"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "543"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q0usn3u3ez"
-        },
-        {
-          "Name": "label",
-          "Value": "InternetCafe.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.q0usn3u3ez.styles.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\bundle\\InternetCafe.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1130"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q0usn3u3ez"
-        },
-        {
-          "Name": "label",
-          "Value": "InternetCafe.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.q0usn3u3ez.styles.css.gz",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\gdohnstydk-q0usn3u3ez.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "543"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "q0usn3u3ez"
-        },
-        {
-          "Name": "label",
-          "Value": "InternetCafe.styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.styles.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\gdohnstydk-q0usn3u3ez.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001838235294"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "543"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.styles.css",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\bundle\\InternetCafe.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1130"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Bna19ql6wUuhDHzYAws5PMrFT/VNB7FYpcP5680Jrjw="
-        }
-      ]
-    },
-    {
-      "Route": "InternetCafe.styles.css.gz",
-      "AssetFile": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\compressed\\gdohnstydk-q0usn3u3ez.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "543"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 15:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pI5zYWviFnt1cdeE15/huCpUwvrDZzSdtp1TfYvFe08="
         }
       ]
     },

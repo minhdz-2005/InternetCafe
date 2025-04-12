@@ -1,0 +1,40 @@
+@{
+    Layout = "User_Layout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <Title>Home</Title>
+    <link rel="stylesheet" href="~/css/User/HomeUsing.css" asp-append-version="true" />
+</head>
+<body>
+    <main class="mainsite mb-4">
+        <div class="mainBox text-center">
+            <span class="title">Using COMPUTER</span>
+            <div class="info mt-4">
+                <div class="infoLine">
+                    <span class="using me-4">Using</span>
+                    dddd
+                </div>
+                <div class="infoLine">
+                    <span class="timeStart me-4">Time Start</span>
+                    d
+                </div>
+                <div class="infoLine">
+                    <span class="dateTime me-4">Date Time</span>
+                    f
+                </div>
+                
+            </div>
+            <form asp-action="HomeUsed" asp-controller="User" method="get">
+                <div class="mt-5">
+                    <button class="btn stopBtn">Stop</button>
+                </div>
+            </form>
+            
+        </div>
+    </main>
+</body>
+</html>

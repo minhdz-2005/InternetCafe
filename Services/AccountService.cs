@@ -1,5 +1,6 @@
 using InternetCafe.Data;
 using InternetCafe.Models;
+using Microsoft.AspNetCore.Identity;
 
 namespace InternetCafe.Services;
 public class AccountSevice {
@@ -9,6 +10,12 @@ public class AccountSevice {
     }
 
     public void Add (Account a) {
+        var passwordHasher = new PasswordHasher<Account>();
+        var acc = new Account {
+            Username = a.Username,
+            Password = passwordHasher.HashPassword(null!, a.Password!)
+        };
+
         _context.Account.Add (a);
         _context.SaveChanges();
     }
@@ -43,5 +50,12 @@ public class AccountSevice {
     }
     public List<Account> GetAll () {
         return _context.Account.ToList();
+    }
+
+
+    public bool IsExist (Account a) {
+        var existing = _context.Account.Find(a);
+        if(existing != null) return true;
+        return false;
     }
 }

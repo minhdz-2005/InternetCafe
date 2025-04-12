@@ -1,0 +1,47 @@
+.list {
+    color: #fff;
+    background-color: #0A0076;
+}
+.mainsite {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+.mainBox {
+    height: fit-content;
+}
+.tableTitle {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-shadow: 0px 4px 4px #cacaca;
+}
+.tableBox {
+    width: 600px;
+    height: fit-content;
+}
+.table {
+    box-shadow: 0px 4px 4px #cacaca;
+    table-layout: fixed;
+}
+.name {
+    width: 40%;
+}
+.cost, .status, .choose {
+    width: 20%;
+}
+.rowItem > td {
+    vertical-align: middle;
+    text-align: center;
+}
+.chooseBtn {
+    border-radius: 10px;
+    width: 80px;
+    color: #fff;
+    box-shadow: 0px 4px 4px #cacaca;
+}
+.chooseBtn { background-color: #b8b81f;}
+.chooseBtn:hover{
+    color: #0A0076;
+    background-color: #f3f3f3;
+}

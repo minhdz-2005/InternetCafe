@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/Manager_Layout.css" asp-append-version="true" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Inria+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="headerBar bg-white w-100 mb-4">
+            <span class="webname bg-white ms-5">INTERNET CAFÉ</span>
+            <span class="username bg-white">username</span>
+            <div class="menuBar bg-white">
+                <form asp-controller="Manager" asp-action="Home" method="get" class="bg-white">
+                    <button class="home btn">Home</button>
+                </form>
+                <form asp-controller="Manager" asp-action="ListComputer" method="get" class="bg-white">
+                    <button class="list btn">List Computer</button>
+                </form>
+                <form asp-controller="Manager" asp-action="RevenueByComputer" method="get" class="bg-white">
+                    <button class="revenue btn">Revenue</button>
+                </form>
+                <form asp-controller="Account" asp-action="Login" method="get" class="bg-white">
+                    <button class="logout btn">Log out</button>
+                </form>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="footer-box">
+            <p class="contact text-center bg-white mb-2">Contact</p>
+            <p class="email text-center bg-white ">Email : minhphung2102@gmail.com</p>
+            <a href="#" class="facebook bg-white position-absolute start-50 translate-middle-x link-underline link-underline-opacity-0">Facebook : Minh Phung</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

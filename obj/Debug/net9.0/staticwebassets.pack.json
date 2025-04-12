@@ -1,12 +1,68 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\InternetCafe.bundle.scp.css",
-      "PackagePath": "staticwebassets\\InternetCafe.q0usn3u3ez.bundle.scp.css"
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Account\\Login.css"
     },
     {
-      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Account\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Account\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\AddComputer.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\AddComputer.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\DeleteComputer.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\DeleteComputer.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\Home.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\ListComputer.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\ListComputer.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByComputer.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\RevenueByComputer.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\RevenueByDate.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\RevenueByDate.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager\\UpdateComputer.css",
+      "PackagePath": "staticwebassets\\css\\Manager\\UpdateComputer.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\Manager_Layout.css",
+      "PackagePath": "staticwebassets\\css\\Manager_Layout.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Deposit.css",
+      "PackagePath": "staticwebassets\\css\\User\\Deposit.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\Home.css",
+      "PackagePath": "staticwebassets\\css\\User\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsed.css",
+      "PackagePath": "staticwebassets\\css\\User\\HomeUsed.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\HomeUsing.css",
+      "PackagePath": "staticwebassets\\css\\User\\HomeUsing.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User\\ListComputer.css",
+      "PackagePath": "staticwebassets\\css\\User\\ListComputer.css"
+    },
+    {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\css\\User_Layout.css",
+      "PackagePath": "staticwebassets\\css\\User_Layout.css"
     },
     {
       "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\favicon.ico",

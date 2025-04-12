@@ -1,0 +1,44 @@
+@{
+    Layout = "User_Layout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <Title>List Computer</Title>
+    <link rel="stylesheet" href="~/css/User/ListComputer.css" asp-append-version="true" />
+
+</head>
+<body>
+    <main class="mainsite mb-4">
+        <div class="mainBox text-center">
+            <span class="tableTitle">LIST COMPUTER</span>
+            <div class="tableBox bg-white">
+                <table class="table mt-4">
+                    <thead>
+                        <tr>
+                            <th class="name">Name</th>
+                            <th class="cost">Cost</th>
+                            <th class="status">Status</th>
+                            <th class="choose">Choose</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="rowItem">
+                            <td>ASUS ROG TRIX</td>
+                            <td>5.78</td>
+                            <td>Off</td>
+                            <td>
+                                <form asp-action="HomeUsing" asp-controller="User" method="get" class="bg-white">
+                                    <button class="btn chooseBtn">Choose</button>
+                                </form>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
