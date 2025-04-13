@@ -44,10 +44,5 @@ public class AccountController : Controller {
     public IActionResult Register() {
         return View();
     }
-    [HttpPost]
-    public IActionResult Register(Account a) {
-        
-        return View();
-    }
     
 }

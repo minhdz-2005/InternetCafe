@@ -17,7 +17,7 @@
     <main class="content">
         <div class="register-box bg-white">
             <p class="register text-center bg-white mt-2">REGISTER</p>
-            <form action="" method="post" class="bg-white">
+            <form asp-action="Login" asp-controller="Account" method="get" class="bg-white">
                 <div class="nameBox mx-5 bg-white">
                     <label class="nameLabel bg-white">Name</label>
                     <input type="text" class="nameInput px-2 mx-2 bg-white" required>
@@ -25,7 +25,7 @@
 
                 <div class="phoneBox mx-5 bg-white">
                     <label class="phoneLabel bg-white">Phone Number</label>
-                    <input type="text" class="phoneInput px-2 mx-2 bg-white" required>
+                    <input type="number" class="phoneInput px-2 mx-2 bg-white" required>
                 </div>
 
                 <div class="usernameBox mx-5 mt-4 bg-white">
