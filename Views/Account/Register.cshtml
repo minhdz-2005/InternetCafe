@@ -1,3 +1,4 @@
+@model InternetCafe.Models.User
 @{
     Layout = null;
 }
@@ -17,41 +18,48 @@
     <main class="content">
         <div class="register-box bg-white">
             <p class="register text-center bg-white mt-2">REGISTER</p>
-            <form asp-action="Login" asp-controller="Account" method="get" class="bg-white">
+            <form asp-action="Register" asp-controller="Account" method="post" class="bg-white">
+                @Html.AntiForgeryToken()
+                @if (!ViewData.ModelState.IsValid)
+                {
+                    <div class="text-danger text-center mb-2">
+                        @Html.ValidationSummary(false)
+                    </div>
+                }
                 <div class="nameBox mx-5 bg-white">
-                    <label class="nameLabel bg-white">Name</label>
-                    <input type="text" class="nameInput px-2 mx-2 bg-white" required>
+                    <label asp-for="Name" class="nameLabel bg-white">Name</label>
+                    <input asp-for="Name" name="Name" type="text" class="nameInput px-2 mx-2 bg-white">
                 </div>
 
                 <div class="phoneBox mx-5 bg-white">
-                    <label class="phoneLabel bg-white">Phone Number</label>
-                    <input type="number" class="phoneInput px-2 mx-2 bg-white" required>
+                    <label asp-for="PhoneNumber" class="phoneLabel bg-white">Phone Number</label>
+                    <input asp-for="PhoneNumber" name="PhoneNumber" type="number" class="phoneInput px-2 mx-2 bg-white">
                 </div>
 
                 <div class="usernameBox mx-5 mt-4 bg-white">
-                    <label class="usernameLabel bg-white">Username</label>
-                    <input type="text" class="usernameInput px-2 mx-2 bg-white" required>
+                    <label asp-for="Username" class="usernameLabel bg-white">Username</label>
+                    <input asp-for="Username" name="Username" type="text" class="usernameInput px-2 mx-2 bg-white">
                 </div>
                 
                 <div class="password mt-2 mx-5 mt-4 bg-white">
                     <label class="passwordLabel bg-white">Password</label>
-                    <input type="password" class="passwordInput px-2 mx-2 bg-white" required>
-                </div>
-
-                <div class="confPassword mt-2 mx-5 bg-white">
-                    <label class="confPasswordLabel bg-white">Confirm Password</label>
-                    <input type="password" class="confPasswordInput px-2 mx-2 bg-white" required>
+                    <input name="password" type="password" class="passwordInput px-2 mx-2 bg-white">
                 </div>
 
                 <div class="acceptBox mt-3 bg-white">
                     <input type="checkbox" class="checkBox form-check-input me-2" required>
                     <label class="checkboxLabel bg-white" for="">Accept term and privacy</label>
                 </div>
-
+                
                 <div class="registerBtnBox mt-4 bg-white">
-                    <button class="registerBtn btn">Register</button>
+                    <button type="submit" class="registerBtn mb-4 btn">Register</button>
                 </div>
             </form>
+            <div class="cancelBtnBox bg-white">
+                <form asp-action="Login" asp-controller="Account" method="get" class="bg-white ms-4 mb-4">
+                    <button class="cancelBtn btn">Cancel</button>
+                </form>
+            </div>
         </div>
     </main>
     <footer>
@@ -61,5 +69,7 @@
             <a href="#" class="facebook bg-white position-absolute start-50 translate-middle-x link-underline link-underline-opacity-0">Facebook : Minh Phung</a>
         </div>
     </footer>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
 </body>
 </html>

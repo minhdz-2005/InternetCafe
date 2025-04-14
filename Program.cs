@@ -20,7 +20,11 @@ builder.Services.AddScoped<UserSevice>();
 
 var app = builder.Build();
 
+// using (var scope = app.Services.CreateScope()) {
+//     var db = scope.ServiceProvider.GetRequiredService<AccountSevice>();
 
+//     db.Add(new Account("ducminh", "minh2005", "Manager"));
+// }
 
 
 // Configure the HTTP request pipeline.

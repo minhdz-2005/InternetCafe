@@ -1,3 +1,4 @@
+@model InternetCafe.Models.Account
 @{
     Layout = null;
 }
@@ -18,19 +19,30 @@
     <main class="content">
         <div class="login-box bg-white">
             <p class="login text-center bg-white mt-2">LOGIN</p>
-            <form asp-action="Home" asp-controller="User" method="get" class="bg-white">
+            <form asp-action="Login" asp-controller="Account" method="post" class="bg-white">
+                @Html.AntiForgeryToken()
+                @if (!ViewData.ModelState.IsValid) {
+                    <div class="text-danger text-center mb-2">
+                        @Html.ValidationSummary(false)
+                    </div>
+                }
+                @if (TempData["SuccessMessage"] != null) {
+                    <div class="bg-white text-center mb-2">
+                        @TempData["SuccessMessage"]
+                    </div>
+                }
                 <div class="usernameBox mx-5 bg-white">
-                    <label class="usernameLabel bg-white">Username</label>
-                    <input type="text" class="usernameInput px-2 mx-2 bg-white" required>
+                    <label asp-for="Username" class="usernameLabel bg-white">Username</label>
+                    <input asp-for="Username" name="Username" type="text" class="usernameInput px-2 mx-2 bg-white">
                 </div>
                 
                 <div class="password mt-2 mx-5 bg-white">
-                    <label class="passwordLabel bg-white">Password</label>
-                    <input type="password" class="passwordInput px-2 mx-2 bg-white" required>
+                    <label asp-for="Password" class="passwordLabel bg-white">Password</label>
+                    <input asp-for="Password" name="Password" type="password" class="passwordInput px-2 mx-2 bg-white">
                 </div>
 
                 <div class="loginBtnBox mt-4 bg-white">
-                        <button class="loginBtn btn">Login</button>
+                    <button type="submit" class="loginBtn btn">Login</button>
                 </div>
             </form>
             <div class="forgotBox mx-3 bg-white">
@@ -42,7 +54,7 @@
             </div>
 
             <div class="registerBtnBox mt-3 bg-white">
-                <form asp-action="Register" asp-controller="Account" method="get">
+                <form asp-action="Register" asp-controller="Account" method="get" class="mb-4">
                     <button class="registerBtn btn">Register</button>
                 </form>
             </div>
@@ -56,6 +68,8 @@
             <a href="#" class="facebook bg-white position-absolute start-50 translate-middle-x link-underline link-underline-opacity-0">Facebook : Minh Phung</a>
         </div>
     </footer>
-    
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
 </body>
+
 </html>

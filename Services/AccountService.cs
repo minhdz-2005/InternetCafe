@@ -10,12 +10,6 @@ public class AccountSevice {
     }
 
     public void Add (Account a) {
-        var passwordHasher = new PasswordHasher<Account>();
-        var acc = new Account {
-            Username = a.Username,
-            Password = passwordHasher.HashPassword(null!, a.Password!)
-        };
-
         _context.Account.Add (a);
         _context.SaveChanges();
     }
