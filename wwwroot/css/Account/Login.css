@@ -15,28 +15,28 @@
     min-height: 100vh;
     justify-content: center;
 }
-.login-box {
+.login-box, .register-box {
     width: 400px;
     max-height: fit-content;
     box-shadow: 0px 4px 4px 0px #cacaca;
 }
-.login {
+.login, .register {
     font-size: 32px;
     font-weight: bold;
     color: #0A0076;
 }
-.usernameLabel, .passwordLabel {
+.nameLabel, .phoneLabel, .usernameLabel, .passwordLabel, .confPasswordLabel {
     width: 70px;
     color: #0A0076;
 }
-.usernameInput, .passwordInput {
+.nameInput, .phoneInput, .usernameInput, .passwordInput, .confPasswordInput {
     width: 200px;
     height: 30px;
     border: none;
     border-bottom: 2px solid #ffffff;
     box-shadow: 0px 4px 4px 0px #cacaca;
 }
-.usernameInput:focus, .passwordInput:focus {
+.nameInput:focus, .phoneInput:focus, .usernameInput:focus, .passwordInput:focus, .confPasswordInput:focus {
     outline: none;
     border-bottom-color: #0A0076;
     box-shadow: none;
@@ -85,6 +85,34 @@
 .textLine:not(:empty)::after {
     margin-left: 16px;
 }
+.acceptBox {
+    margin-left: 8rem;
+  }
+  .checkBox:focus {
+    outline: none;
+    box-shadow: none;
+  }
+  
+  .checkboxLabel {
+    font-size: 12px;
+    color: #0A0076;
+  }
+  .cancelBtnBox {
+    display: flex;
+    box-shadow: 0px 4px 4px 0px #cacaca;
+  }
+  .cancelBtn {
+    color: #0A0076;
+    background-color: #fff;
+    width: 90px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 4px 0px #cacaca;
+    float: left;
+  }
+  .cancelBtn:hover {
+    background: #f3f3f3;
+    transition: all 0.4s ease;
+  }
 
 
 

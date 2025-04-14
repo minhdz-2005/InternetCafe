@@ -38,34 +38,24 @@ public class AccountController : Controller {
     }
 
 
-    [HttpGet]
-    public IActionResult Register() {
-        return View();
-    }
     [HttpPost]
-    public IActionResult Register (User u, string password) {
-
-        Console.WriteLine($"Name : {u.Name}");
-        Console.WriteLine($"PhoneNumber : {u.PhoneNumber}");
-        Console.WriteLine($"Username : {u.Username}");
-        Console.WriteLine($"Password : {password}");
-        if (string.IsNullOrEmpty(password) || password.Length < 8) ModelState.AddModelError("", "The password must be at least 8 characters");
-        
+    public IActionResult Register (Account a, string name, string phoneNumber, string confirmPass) {
+        if (string.IsNullOrEmpty(confirmPass) || confirmPass != a.Password) ModelState.AddModelError("", "The password and comfirm password must be the same");
         if (ModelState.IsValid) {
-            Console.WriteLine("Dung roi");
-            var existing = _context.Account.FirstOrDefault(x => x.Username == u.Username);
-
+            a.Role = "User";
+            var existing = _context.Account.FirstOrDefault(x => x.Username == a.Username);
             if (existing == null) {
-                Console.WriteLine("ko ton tai");
-                _context.Account.Add(new Account(u.Username, password, "User"));
-                _context.User.Add(new Models.User(u.Name, u.PhoneNumber, 0, u.Username));
+                _context.Account.Add(a);
+                _context.User.Add(new Models.User(name, phoneNumber, 0,  a.Username));
                 _context.SaveChanges();
+                
 
                 TempData["SuccessMessage"] = "Register successful, please login !";
                 return RedirectToAction("Login", "Account");
             }
             else ModelState.AddModelError("", "The username is already exist!");
         }
-        return View();
+        ViewBag.ShowRegisterForm = true;
+        return View("Login", a);
     }
 }

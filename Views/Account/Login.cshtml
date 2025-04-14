@@ -2,7 +2,6 @@
 @{
     Layout = null;
 }
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +16,7 @@
 <body>
     <p class="webname text-center mt-5 mb-3">INTERNET CAFÉ</p>
     <main class="content">
-        <div class="login-box bg-white">
+        <div class="login-box bg-white" id="loginForm">
             <p class="login text-center bg-white mt-2">LOGIN</p>
             <form asp-action="Login" asp-controller="Account" method="post" class="bg-white">
                 @Html.AntiForgeryToken()
@@ -54,15 +53,68 @@
             </div>
 
             <div class="registerBtnBox mt-3 bg-white">
-                <form asp-action="Register" asp-controller="Account" method="get" class="mb-4">
-                    <button class="registerBtn btn">Register</button>
+                <form class="mb-4">
+                    <button onclick="showRegister()" type="button" class="registerBtn btn">Register</button>
                 </form>
             </div>
-        
+        </div>
+
+
+        <div class="register-box bg-white" id="registerForm" style="display: none;">
+            <p class="register text-center bg-white mt-2">REGISTER</p>
+            <form asp-action="Register" asp-controller="Account" method="post" class="bg-white">
+                @Html.AntiForgeryToken()
+                @if (!ViewData.ModelState.IsValid)
+                {
+                    <div class="text-danger text-center mb-2">
+                        @Html.ValidationSummary(false)
+                    </div>
+                }
+                <div class="nameBox mx-5 bg-white">
+                    <label class="nameLabel bg-white">Name</label>
+                    <input name="name" type="text" class="nameInput px-2 mx-2 bg-white">
+                </div>
+
+                <div class="phoneBox mx-5 bg-white">
+                    <label class="phoneLabel bg-white">Phone Number</label>
+                    <input name="phoneNumber" type="number" class="phoneInput px-2 mx-2 bg-white">
+                </div>
+
+                <div class="usernameBox mx-5 mt-4 bg-white">
+                    <label asp-for="Username" class="usernameLabel bg-white">Username</label>
+                    <input asp-for="Username" name="Username" type="text" class="usernameInput px-2 mx-2 bg-white">
+                </div>
+                
+                <div class="password mt-2 mx-5 mt-4 bg-white">
+                    <label asp-for="Password" class="passwordLabel bg-white">Password</label>
+                    <input asp-for="Password" name="Password" type="password" class="passwordInput px-2 mx-2 bg-white">
+                </div>
+
+                <div class="confPassword mt-2 mx-5 mt-4 bg-white">
+                    <label class="passwordLabel bg-white">Confirm Password</label>
+                    <input name="confirmPass" type="password" class="confPasswordInput px-2 mx-2 bg-white">
+                </div>
+
+                <div class="acceptBox mt-3 bg-white">
+                    <input type="checkbox" class="checkBox form-check-input me-2" required>
+                    <label class="checkboxLabel bg-white" for="">Accept term and privacy</label>
+                </div>
+                
+                <div class="registerBtnBox mt-4 bg-white">
+                    <button type="submit" class="registerBtn mb-4 btn">Register</button>
+                </div>
+            </form>
+            <div class="cancelBtnBox bg-white">
+                <form class="bg-white ms-4 mb-4">
+                    <button type="button" onclick="showLogin()" class="cancelBtn btn">Cancel</button>
+                </form>
+            </div>
         </div>
     </main>
+
+
     <footer>
-        <div class="footer-box">
+        <div class="footer-box mt-5">
             <p class="contact text-center bg-white mb-2">Contact</p>
             <p class="email text-center bg-white ">Email : minhphung2102@gmail.com</p>
             <a href="#" class="facebook bg-white position-absolute start-50 translate-middle-x link-underline link-underline-opacity-0">Facebook : Minh Phung</a>
@@ -70,6 +122,14 @@
     </footer>
     <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
     <script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/Account.js"></script>
+    <script>
+        @if (ViewBag.ShowRegisterForm != null && (bool)ViewBag.ShowRegisterForm)
+        {
+            <text>showRegister();</text>
+        }
+    </script>
+
 </body>
 
 </html>
