@@ -18,15 +18,15 @@ builder.Services.AddScoped<ManagerSevice>();
 builder.Services.AddScoped<UsedInfoSevice>();
 builder.Services.AddScoped<UserSevice>();
 
+builder.Services.AddSession();
+
 var app = builder.Build();
 
-using (var scope = app.Services.CreateScope()) {
-    var db = scope.ServiceProvider.GetRequiredService<AccountSevice>();
+// using (var scope = app.Services.CreateScope()) {
+//     var db = scope.ServiceProvider.GetRequiredService<AccountSevice>();
 
-    // db.Add(new Account("ducminh", "minh2005", "Manager"));
-    db.Update(1, new Account("ducminh05", "minh2005", "Manager"));
-    db.Update(2, new Account("ducmanh05", "manh2005", "User"));
-}
+//     db.Add(new Account("ducminh05", "minh2005", "Manager"));
+// }
 
 
 // Configure the HTTP request pipeline.
@@ -36,6 +36,8 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+app.UseSession();
 
 app.UseHttpsRedirection();
 app.UseRouting();

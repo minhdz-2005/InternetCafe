@@ -16,7 +16,6 @@ C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\In
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\InternetCafe.RazorAssemblyInfo.cs
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\scopedcss\bundle\InternetCafe.styles.css
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\4xk7pe9qus-61n19gt1b8.gz
-C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\lgw9yukakk-xtxxf3hu2r.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\th6cp0f5yi-bqjiyaj88i.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\j74rml60k7-c2jlpeoesf.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\do4hod6lgp-erw9l3u2r3.gz
@@ -225,7 +224,6 @@ C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\bin\Debug\net9.0\ru
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\InternetCafe.csproj.AssemblyReference.cache
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\InternetCafe.sourcelink.json
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\Internet.5EBF6CA8.Up2Date
-C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\ywmbivq7iy-6ymx6p9axh.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\c78mz08p4m-vv2z7va1mi.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\x7uvj97eg8-oazk0waz5w.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\fcej7qycg9-fhx6459zy1.gz
@@ -240,4 +238,7 @@ C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\co
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\3tkf9jwk6h-95f2xbxlof.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\7dxa8dqops-e846qbodgu.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\ukf9xltb05-01qr54xas7.gz
-C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\iy06jlmgsu-8gcwfba624.gz
+C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\iy06jlmgsu-z8ufcmm465.gz
+C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\ywmbivq7iy-6ymx6p9axh.gz
+C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\q5jihnfwwj-35tcjks0pa.gz
+C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\lgw9yukakk-3r8b2a0bt1.gz

@@ -69,6 +69,10 @@
       "PackagePath": "staticwebassets\\js\\Account.js"
     },
     {
+      "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\js\\Manager.js",
+      "PackagePath": "staticwebassets\\js\\Manager.js"
+    },
+    {
       "Id": "C:\\Users\\minhp\\Documents\\HK4_dotNET_Programming\\InternetCafe\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

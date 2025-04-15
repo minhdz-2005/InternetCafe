@@ -1,3 +1,4 @@
+@model InternetCafe.Models.UsingViewModel
 @{
     Layout = "Manager_Layout";
 }
@@ -13,7 +14,7 @@
     <main class="mainsite mb-4">
         <div class="mainBox text-center">
             <span class="tableTitle">LIST USER ACTIVE</span>
-            <div class="tableBox bg-white">
+            <div class="tableBox bg-white" id="listActiveTable">
                 <table class="table mt-4">
                     <thead>
                         <tr>
@@ -25,10 +26,14 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td>1</td>
-                            <td>Minh</td>
-                            <td>3</td>
-                            <td>ASUS ROG</td>
+                            @foreach (var u in Model.Users) {
+                                <td>@u.Id</td>
+                                <td>@u.Name</td>
+                            }
+                            @foreach (var c in Model.Computers) {
+                                <td>@c.Id</td>
+                                <td>@c.Name</td>
+                            }
                         </tr>
                         
                     </tbody>
@@ -36,5 +41,8 @@
             </div>
         </div>
     </main>
+    @section Scripts {
+        <script src="~/js/Manager.js"></script>
+    }
 </body>
 </html>

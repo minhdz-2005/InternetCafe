@@ -25,7 +25,15 @@ public class AccountController : Controller {
             var acc = _context.Account.FirstOrDefault(x => x.Username == a.Username);
 
             if (acc != null && a.Password == acc.Password) {
-                if (acc.Role == "Manager") {
+                HttpContext.Session.SetString("Username", acc.Username);
+                if (acc.Role == "User") {
+                    var u = _context.User.FirstOrDefault(x => x.Username == a.Username);
+                    if(u != null) {
+                        HttpContext.Session.SetString("Money", u.Money.ToString());
+                        HttpContext.Session.SetString("Name", u.Name);
+                    }
+                }
+                if (acc.Role == "Manager") {                    
                     return RedirectToAction ("Home", "Manager");
                 }
                 else {

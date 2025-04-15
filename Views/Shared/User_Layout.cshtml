@@ -14,9 +14,9 @@
         <div class="headerBar bg-white w-100 mb-4">
             <span class="webname bg-white ms-5 me-4">INTERNET CAFÉ</span>
             <div class="user_money bg-white">
-                <span class="username bg-white">username</span>
-                <div class="moneyBox ms-4">
-                    <span class="money">333232.21</span>
+                <span class="username bg-white">@Context.Session.GetString("Username")</span>
+                <div class="moneyBox ms-4" id="moneyUser">
+                    <span class="money">@Context.Session.GetString("Money") $</span>
                 </div>
             </div>
             <div class="menuBar bg-white">

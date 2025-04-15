@@ -13,7 +13,7 @@
     <header>
         <div class="headerBar bg-white w-100 mb-4">
             <span class="webname bg-white ms-5">INTERNET CAFÉ</span>
-            <span class="username bg-white">username</span>
+            <span class="username bg-white">@Context.Session.GetString("Username")</span>
             <div class="menuBar bg-white">
                 <form asp-controller="Manager" asp-action="Home" method="get" class="bg-white">
                     <button class="home btn">Home</button>
@@ -37,7 +37,7 @@
     </div>
 
     <footer>
-        <div class="footer-box">
+        <div class="footer-box mt-5">
             <p class="contact text-center bg-white mb-2">Contact</p>
             <p class="email text-center bg-white ">Email : minhphung2102@gmail.com</p>
             <a href="#" class="facebook bg-white position-absolute start-50 translate-middle-x link-underline link-underline-opacity-0">Facebook : Minh Phung</a>
@@ -46,6 +46,7 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/Manager.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

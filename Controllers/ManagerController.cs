@@ -1,9 +1,18 @@
+using InternetCafe.Data;
+using InternetCafe.Models;
 using Microsoft.AspNetCore.Mvc;
 namespace InternetCafe.Controllers;
 public class ManagerController : Controller {
+    private readonly InternetCafeContext _context;
+    public ManagerController (InternetCafeContext context) {
+        _context = context;
+    }
     [HttpGet]
     public IActionResult Home() {
-        return View();
+        UsingViewModel usingModel = new UsingViewModel();
+        
+
+        return View(usingModel);
     }
     [HttpGet]
     public IActionResult ListComputer() {
