@@ -1,3 +1,4 @@
+
 @{
     Layout = "User_Layout";
 }
@@ -13,14 +14,14 @@
     <main class="mainsite mb-4">
         <div class="mainBox text-center">
             <span class="title">DEPOSIT MONEY</span>
-            <form  method="get">                 
+            <form asp-action="Deposit" asp-controller="User" method="post">
                 <div class="cost mt-4">
                     <label class="costLabel me-4">Amount ($)</label>
-                    <input type="number" min="0" step="any" class="costInput bg-white" required>
+                    <input name="amount" type="number" min="0" step="any" class="costInput bg-white" required>
                 </div>
 
                 <div class="mt-5">
-                    <button class="btn confirmBtn">Confirm</button>
+                    <button type="sublit" class="btn confirmBtn">Confirm</button>
                 </div>
             </form>
             <div class="mt-5">

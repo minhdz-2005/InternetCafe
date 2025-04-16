@@ -29,6 +29,7 @@ public class AccountController : Controller {
                 if (acc.Role == "User") {
                     var u = _context.User.FirstOrDefault(x => x.Username == a.Username);
                     if(u != null) {
+                        HttpContext.Session.SetInt32("UserId", u.Id);
                         HttpContext.Session.SetString("Money", u.Money.ToString());
                         HttpContext.Session.SetString("Name", u.Name);
                     }

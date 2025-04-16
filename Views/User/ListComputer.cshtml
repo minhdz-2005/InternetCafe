@@ -1,3 +1,4 @@
+@model List<InternetCafe.Models.Computer>
 @{
     Layout = "User_Layout";
 }
@@ -25,20 +26,31 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr class="rowItem">
-                            <td>ASUS ROG TRIX</td>
-                            <td>5.78</td>
-                            <td>Off</td>
-                            <td>
-                                <form asp-action="HomeUsing" asp-controller="User" method="get" class="bg-white">
-                                    <button class="btn chooseBtn">Choose</button>
-                                </form>
-                            </td>
-                        </tr>
+                        @foreach (var c in Model) {
+                            <tr class="rowItem">
+                                <td>@c.Name</td>
+                                <td>@c.Cost $</td>
+                                @if(@c.Status == true) {
+                                    <td>On</td>
+                                }
+                                else {
+                                    <td>Off</td>
+                                    <td>
+                                    <form asp-action="Home" asp-controller="User" method="get" class="bg-white">
+                                        <input type="hidden" name="id" value="@c.Id">
+                                        <button type="submit" class="btn chooseBtn">Choose</button>
+                                    </form>
+                                </td>
+                                }
+                            </tr>
+                        }
                     </tbody>
                 </table>
             </div>
         </div>
     </main>
+    @section Scripts {
+        <script src="~/js/User.cs"></script>
+    }
 </body>
 </html>

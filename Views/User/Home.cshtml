@@ -1,3 +1,4 @@
+@model InternetCafe.Models.UsingViewModel
 @{
     Layout = "User_Layout";
 }
@@ -11,10 +12,49 @@
 </head>
 <body>
     <main class="mainsite mb-4">
-        <div class="mainBox text-center">
+        <input type="hidden" id="homeState" value="@(Model == null ? "login" : "using")" />
+
+
+        <div class="mainBox text-center" id="homeLogin" style="display: none;">
             <h1 class="welcome">Welcome!</h1>
             <span class="fs-4">@Context.Session.GetString("Name")</span>
         </div>
+
+        <div class="mainBox text-center" id="homeUsing" style="display: none;">
+            <span class="title">Using COMPUTER</span>
+            <div class="info mt-4">
+                @if (@Model != null) {
+                    <div class="infoLine">
+                        <span class="using me-4">Using</span>
+                        @Model.ComputerName
+                    </div>
+                    <div class="infoLine">
+                        <span class="timeStart me-4">Time Start</span>
+                        @Model.StartTime.Hour :
+                        @Model.StartTime.Minute :
+                        @Model.StartTime.Second
+                    </div>
+                    <div class="infoLine">
+                        <span class="dateTime me-4">Date Time</span>
+                        @Model.StartTime.Day /
+                        @Model.StartTime.Month /
+                        @Model.StartTime.Year 
+                    </div>
+                }
+            </div>
+            <form asp-action="HomeUsed" asp-controller="User" method="get">
+                <div class="mt-5">
+                    @if(@Model != null) {
+                        <input type="hidden" name="computerId" value="@Model.ComputerId">
+                        <input type="hidden" name="dateTime" value="@Model.StartTime">
+                    } 
+                    <button type="submit" class="btn stopBtn">Stop</button>
+                </div>
+            </form>
+        </div>
     </main>
+    @section Scripts {
+        <script src="~/js/User.js"></script>
+    }
 </body>
 </html>

@@ -1,3 +1,4 @@
+@model InternetCafe.Models.UsedViewModel
 @{
     Layout = "User_Layout";
 }
@@ -7,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <Title>Home</Title>
-    <link rel="stylesheet" href="~/css/User/HomeUsed.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/User/HomeUsed.css" asp-append-version="true"/>
 </head>
 <body>
     <main class="mainsite mb-4">
@@ -16,23 +17,23 @@
             <div class="info mt-4">
                 <div class="infoLine">
                     <span class="used me-4">Used</span>
-                    dddd
+                    @Model.ComputerName
                 </div>
                 <div class="infoLine">
                     <span class="timeStart me-4">Time Start</span>
-                    d
+                    @Model.StartTime.Hour : @Model.StartTime.Minute : @Model.StartTime.Second
                 </div>
                 <div class="infoLine">
                     <span class="timeEnd me-4">Time End</span>
-                    d
+                    @Model.EndTime.Hour : @Model.EndTime.Minute : @Model.EndTime.Second
                 </div>
                 <div class="infoLine">
                     <span class="dateTime me-4">Date Time</span>
-                    f
+                    @Model.StartTime.Day / @Model.StartTime.Month / @Model.StartTime.Year
                 </div>
                 <div class="infoLine">
                     <span class="cost me-4">Cost</span>
-                    d
+                    @Model.Cost
                 </div>
                 
             </div>
