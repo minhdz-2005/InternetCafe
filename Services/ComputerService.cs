@@ -18,6 +18,7 @@ public class ComputerSevice {
             existing.Name = c.Name;
             existing.Cost = c.Cost;
             existing.Status = c.Status;
+            existing.Revenue = c.Revenue;
             
             _context.SaveChanges();
         }
@@ -37,6 +38,7 @@ public class ComputerSevice {
             c.Name = existing.Name;
             c.Cost = existing.Cost;
             c.Status = existing.Status;
+            c.Revenue = existing.Revenue;
         }
 
         return c;

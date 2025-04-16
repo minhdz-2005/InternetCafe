@@ -1,3 +1,4 @@
+@model List<InternetCafe.Models.UsedInfo>
 @{
     Layout = "Manager_Layout";
 }
@@ -31,12 +32,12 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr class="rowItem">
-                            <td>12/03/2024</td>
-                            <td>55.82</td>
-                            
-                        </tr>
-                        
+                        @foreach (var item in Model) {
+                            <tr class="rowItem">
+                                <td>@item.Date.Day / @item.Date.Month / @item.Date.Year</td>
+                                <td>@item.Amount $</td>
+                            </tr>
+                        }
                     </tbody>
                 </table>
             </div>

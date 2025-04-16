@@ -4,6 +4,7 @@ using InternetCafe.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace InternetCafe.Migrations
 {
     [DbContext(typeof(InternetCafeContext))]
-    partial class InternetCafeContextModelSnapshot : ModelSnapshot
+    [Migration("20250415110749_InitialCreate")]
+    partial class InitialCreate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -69,14 +72,15 @@ namespace InternetCafe.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<decimal>("Revenue")
-                        .HasPrecision(18, 2)
-                        .HasColumnType("decimal(18,2)");
-
                     b.Property<bool>("Status")
                         .HasColumnType("bit");
 
+                    b.Property<int?>("UsingViewModelId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UsingViewModelId");
 
                     b.ToTable("Computer");
                 });
@@ -153,7 +157,12 @@ namespace InternetCafe.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
+                    b.Property<int?>("UsingViewModelId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("UsingViewModelId");
 
                     b.ToTable("User");
                 });
@@ -166,26 +175,30 @@ namespace InternetCafe.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("ComputerId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ComputerName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("NameUser")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<DateTime>("StartTime")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int>("UserId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
                     b.ToTable("ActiveUserComputer");
+                });
+
+            modelBuilder.Entity("InternetCafe.Models.Computer", b =>
+                {
+                    b.HasOne("InternetCafe.Models.UsingViewModel", null)
+                        .WithMany("Computers")
+                        .HasForeignKey("UsingViewModelId");
+                });
+
+            modelBuilder.Entity("InternetCafe.Models.User", b =>
+                {
+                    b.HasOne("InternetCafe.Models.UsingViewModel", null)
+                        .WithMany("Users")
+                        .HasForeignKey("UsingViewModelId");
+                });
+
+            modelBuilder.Entity("InternetCafe.Models.UsingViewModel", b =>
+                {
+                    b.Navigation("Computers");
+
+                    b.Navigation("Users");
                 });
 #pragma warning restore 612, 618
         }

@@ -1,3 +1,4 @@
+@model List<InternetCafe.Models.Computer>
 @{
     Layout = "Manager_Layout";
 }
@@ -33,14 +34,14 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr class="rowItem">
-                            <td>1</td>
-                            <td>ASUS ROG TRIX</td>
-                            <td>5.78</td>
-                            <td>82.32</td>
-                            
-                        </tr>
-                        
+                        @foreach (var c in Model) {
+                            <tr class="rowItem">
+                                <td>@c.Id</td>
+                                <td>@c.Name</td>
+                                <td>@c.Cost $</td>
+                                <td>@c.Revenue $</td>
+                            </tr>
+                        }
                     </tbody>
                 </table>
             </div>

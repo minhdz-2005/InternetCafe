@@ -1,3 +1,4 @@
+@model List<InternetCafe.Models.Computer>
 @{
     Layout = "Manager_Layout";
 }
@@ -11,7 +12,7 @@
 </head>
 <body>
     <main class="mainsite mb-4">
-        <div class="mainBox text-center">
+        <div class="mainBox text-center" id="listComputer">
             <span class="tableTitle">LIST COMPUTER</span>
             <div class="addComp d-flex">
                 <form asp-action="AddComputer" asp-controller="Manager" method="get">
@@ -31,23 +32,33 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr class="rowItem">
-                            <td>1</td>
-                            <td>ASUS ROG TRIX</td>
-                            <td>5.78</td>
-                            <td>Off</td>
-                            <td>
-                                <form asp-action="UpdateComputer" asp-controller="Manager" method="get" class="bg-white">
-                                    <button class="btn editBtn">Edit</button>
-                                </form>
-                            </td>
-                            <td>
-                                <form asp-action="DeleteComputer" asp-controller="Manager" method="get" class="bg-white">
-                                    <button class="btn removeBtn">Delete</button>
-                                </form>
-                            </td>
-                        </tr>
-                        
+                        @foreach (var c in Model) {
+                            <tr class="rowItem">
+                                <td>@c.Id</td>
+                                <td>@c.Name</td>
+                                <td>@c.Cost $</td>
+                                
+                                @if (@c.Status == true) {
+                                    <td>On</td>
+                                }
+                                else {
+                                    <td>Off</td>
+                                }
+                                
+                                <td>
+                                    <form asp-action="UpdateComputer" asp-controller="Manager" method="get" class="bg-white">
+                                        <input type="hidden" name="id" value="@c.Id" />
+                                        <button class="btn editBtn">Edit</button>
+                                    </form>
+                                </td>
+                                <td>
+                                    <form asp-action="DeleteComputer" asp-controller="Manager" method="get" class="bg-white">
+                                        <input type="hidden" name="id" value="@c.Id" />
+                                        <button class="btn removeBtn">Delete</button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
                     </tbody>
                 </table>
             </div>

@@ -11,6 +11,7 @@ public class InternetCafeContext : DbContext {
     public DbSet<Manager> Manager { get; set; }
     public DbSet<UsedInfo> UsedInfo { get; set; }
     public DbSet<User> User { get; set; }
+    public DbSet<UsingViewModel> ActiveUserComputer { get; set; }
 
     protected override void OnModelCreating (ModelBuilder model) {
         model.Entity<Account>().HasIndex(a => a.Username).IsUnique();

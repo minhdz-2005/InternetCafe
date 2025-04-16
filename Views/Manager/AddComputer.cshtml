@@ -13,19 +13,19 @@
     <main class="mainsite mb-4">
         <div class="mainBox text-center">
             <span class="title">ADD NEW COMPUTER</span>
-            <form  asp-action="ListComputer" asp-controller="Manager" method="get">
+            <form  asp-action="AddComputer" asp-controller="Manager" method="post">
                 <div class="name mt-5">
                     <label class="nameLabel me-5">Name</label>
-                    <input type="text" class="nameInput bg-white" required>
+                    <input name="name" type="text" class="nameInput bg-white px-2" required>
                 </div>
                 
                 <div class="cost mt-4">
                     <label class="costLabel me-4">Cost ($)</label>
-                    <input type="number" min="0" step="any" class="costInput bg-white" required>
+                    <input name="cost" type="number" min="0" step="any" class="costInput bg-white px-2" required>
                 </div>
 
                 <div class="mt-5">
-                    <button class="btn confirmBtn">Confirm</button>
+                    <button type="submit" class="btn confirmBtn">Confirm</button>
                 </div>
             </form>
             <div class="mt-5">

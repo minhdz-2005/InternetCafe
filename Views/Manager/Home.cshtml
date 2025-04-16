@@ -1,4 +1,4 @@
-@model InternetCafe.Models.UsingViewModel
+@model List<InternetCafe.Models.UsingViewModel>
 @{
     Layout = "Manager_Layout";
 }
@@ -22,17 +22,17 @@
                             <th class="userName">User Name</th>
                             <th class="compId">Computer ID</th>
                             <th class="compName">Computer Name</th>
+                            <th class="startTime">StartTime</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            @foreach (var u in Model.Users) {
-                                <td>@u.Id</td>
-                                <td>@u.Name</td>
-                            }
-                            @foreach (var c in Model.Computers) {
-                                <td>@c.Id</td>
-                                <td>@c.Name</td>
+                            @foreach (var item in Model) {
+                                <td>@item.UserId</td>
+                                <td>@item.NameUser</td>
+                                <td>@item.ComputerId</td>
+                                <td>@item.ComputerName</td>
+                                <td>@item.StartTime</td>
                             }
                         </tr>
                         

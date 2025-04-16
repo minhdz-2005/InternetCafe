@@ -228,8 +228,6 @@ C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\co
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\x7uvj97eg8-oazk0waz5w.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\fcej7qycg9-fhx6459zy1.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\h7trw09ggb-uqbdzzc3ak.gz
-C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\jvoskfraro-fhx6459zy1.gz
-C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\kehva37e5m-79x7kfpyvz.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\e5rwhy4x7j-ctmtqoo5rp.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\aqbznfs7eq-1t6qro1qey.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\hajjn7sqdr-lgct1fn9vt.gz
@@ -242,3 +240,5 @@ C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\co
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\ywmbivq7iy-6ymx6p9axh.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\q5jihnfwwj-35tcjks0pa.gz
 C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\lgw9yukakk-3r8b2a0bt1.gz
+C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\kehva37e5m-j9t2ecrkk7.gz
+C:\Users\minhp\Documents\HK4_dotNET_Programming\InternetCafe\obj\Debug\net9.0\compressed\jvoskfraro-6q4hxqhg70.gz
