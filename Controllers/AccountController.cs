@@ -30,7 +30,7 @@ public class AccountController : Controller {
                     var u = _context.User.FirstOrDefault(x => x.Username == a.Username);
                     if(u != null) {
                         HttpContext.Session.SetInt32("UserId", u.Id);
-                        HttpContext.Session.SetString("Money", u.Money.ToString());
+                        HttpContext.Session.SetString("Money", u.Money.ToString("0.00"));
                         HttpContext.Session.SetString("Name", u.Name);
                     }
                 }

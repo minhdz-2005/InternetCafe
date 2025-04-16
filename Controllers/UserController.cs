@@ -11,19 +11,30 @@ public class UserController : Controller {
     [HttpGet]
     public IActionResult Home (int? id) {
         UsingViewModel usingModel = new UsingViewModel();
+
         int? i = HttpContext.Session.GetInt32("useState");
         if (i == null) i = 0;
-        var us = _context.ActiveUserComputer.FirstOrDefault(x => x.Id == i);
+
+        var us = _context.ActiveUserComputer.FirstOrDefault(x => x.ComputerId == i);
         if(us != null) usingModel = us;
+
         if(i == 0 && id == null) {
+            Console.WriteLine("if 1");
             return View(null);
         }
+
         if(i == 0 && id != null) {
+            Console.WriteLine("if 2");
             HttpContext.Session.SetInt32("useState", (int)id);
-            var c = _context.Computer.FirstOrDefault(x => x.Id == i);
+
+            var c = _context.Computer.FirstOrDefault(x => x.Id == id);
+
             int? userId = HttpContext.Session.GetInt32("UserId");
+
             var u = _context.User.FirstOrDefault(x => x.Id == userId);
+
             if (c != null && c.Name != null && u != null) {
+                Console.WriteLine("if 3");
                 usingModel.UserId = u.Id;
                 usingModel.NameUser = u.Name;
                 usingModel.ComputerId = c.Id;
@@ -51,11 +62,24 @@ public class UserController : Controller {
         UsedViewModel usedModel = new UsedViewModel();
         var c = _context.Computer.FirstOrDefault(x => x.Id == computerId);
         if(c != null && c.Name != null) {
-            decimal cost = c.Cost * dateTime.Hour;
             usedModel.ComputerName = c.Name;
             usedModel.StartTime = dateTime;
             usedModel.EndTime = DateTime.Now;
-            usedModel.Cost = cost;
+            decimal timeEnd = usedModel.EndTime.Hour + (decimal)usedModel.EndTime.Minute/60 + (decimal)usedModel.EndTime.Second/3600;
+            decimal timeStart = dateTime.Hour + (decimal)dateTime.Minute/60 + (decimal)dateTime.Second/3600;
+            usedModel.Cost = c.Cost * (timeEnd - timeStart);
+
+            int? userId = HttpContext.Session.GetInt32("UserId");
+
+            var u = _context.User.FirstOrDefault(x => x.Id == userId);
+            if(u != null) {
+                u.Money -= usedModel.Cost;
+                _context.SaveChanges();
+
+                HttpContext.Session.SetString("Money", u.Money.ToString());
+            }
+            
+            
         }
         return View(usedModel);
     }

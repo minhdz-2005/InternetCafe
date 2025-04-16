@@ -120,17 +120,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jjz3eogyyo"},{"Name":"integrity","Value":"sha256-UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk="},{"Name":"label","Value":"_content/InternetCafe/css/User/Deposit.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1038"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022UXtfFG3uSgKACAC8LPALs7l9Ix3nsqnAStXHP/S0iyk=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 17:54:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InternetCafe/css/User/Home.1bc0mjdv7l.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\User\Home.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1bc0mjdv7l"},{"Name":"integrity","Value":"sha256-TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o="},{"Name":"label","Value":"_content/InternetCafe/css/User/Home.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"205"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 17:33:02 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InternetCafe/css/User/Home.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\User\Home.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"205"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022TdCGj8jED8ERACtHXIcuaztl67fQSHanIwawd5ys31o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 17:33:02 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-En\u002BB4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"985"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022En\u002BB4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 15:24:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InternetCafe/css/User/Home.e846qbodgu.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\User\Home.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e846qbodgu"},{"Name":"integrity","Value":"sha256-En\u002BB4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI="},{"Name":"label","Value":"_content/InternetCafe/css/User/Home.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"985"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022En\u002BB4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 15:24:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InternetCafe/css/User/HomeUsed.95f2xbxlof.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\User\HomeUsed.css'))</AssetFile>
