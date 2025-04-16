@@ -26,6 +26,7 @@ public class UserController : Controller {
         if(i == 0 && id != null) {
             Console.WriteLine("if 2");
             HttpContext.Session.SetInt32("useState", (int)id);
+            HttpContext.Session.SetInt32("IsUsing", 1);
 
             var c = _context.Computer.FirstOrDefault(x => x.Id == id);
 
@@ -40,6 +41,8 @@ public class UserController : Controller {
                 usingModel.ComputerId = c.Id;
                 usingModel.ComputerName = c.Name;
                 usingModel.StartTime = DateTime.Now;
+
+                c.Status = true;
 
                 _context.ActiveUserComputer.Add(usingModel);
                 _context.SaveChanges();
@@ -62,6 +65,9 @@ public class UserController : Controller {
         UsedViewModel usedModel = new UsedViewModel();
         var c = _context.Computer.FirstOrDefault(x => x.Id == computerId);
         if(c != null && c.Name != null) {
+            c.Status = false;
+            HttpContext.Session.SetInt32("IsUsing", 0);
+
             usedModel.ComputerName = c.Name;
             usedModel.StartTime = dateTime;
             usedModel.EndTime = DateTime.Now;
@@ -76,10 +82,8 @@ public class UserController : Controller {
                 u.Money -= usedModel.Cost;
                 _context.SaveChanges();
 
-                HttpContext.Session.SetString("Money", u.Money.ToString());
+                HttpContext.Session.SetString("Money", u.Money.ToString("0.00"));
             }
-            
-            
         }
         return View(usedModel);
     }

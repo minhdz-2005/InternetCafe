@@ -144,18 +144,6 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1038"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00220ymLuoG5xRrhWYCg4TEVFiwfEPhI1pFkWTqtBYJ01u0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 18:13:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InternetCafe/css/User/HomeUsing.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\User\HomeUsing.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-En\u002BB4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"985"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022En\u002BB4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 18:08:10 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/InternetCafe/css/User/HomeUsing.e846qbodgu.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\User\HomeUsing.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e846qbodgu"},{"Name":"integrity","Value":"sha256-En\u002BB4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI="},{"Name":"label","Value":"_content/InternetCafe/css/User/HomeUsing.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"985"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022En\u002BB4Xw4QoDdfC/T2CPGQK93J8CuNHPkTzDWX17EsaI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 12 Apr 2025 18:08:10 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/InternetCafe/css/User/ListComputer.1t6qro1qey.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\User\ListComputer.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

@@ -32,6 +32,7 @@ public class AccountController : Controller {
                         HttpContext.Session.SetInt32("UserId", u.Id);
                         HttpContext.Session.SetString("Money", u.Money.ToString("0.00"));
                         HttpContext.Session.SetString("Name", u.Name);
+                        HttpContext.Session.SetInt32("IsUsing", 0);
                     }
                 }
                 if (acc.Role == "Manager") {                    
@@ -45,8 +46,6 @@ public class AccountController : Controller {
         }
         return View(a);
     }
-
-
     [HttpPost]
     public IActionResult Register (Account a, string name, string phoneNumber, string confirmPass) {
         if (string.IsNullOrEmpty(confirmPass) || confirmPass != a.Password) ModelState.AddModelError("", "The password and comfirm password must be the same");
@@ -58,7 +57,6 @@ public class AccountController : Controller {
                 _context.User.Add(new Models.User(name, phoneNumber, 0,  a.Username));
                 _context.SaveChanges();
                 
-
                 TempData["SuccessMessage"] = "Register successful, please login !";
                 return RedirectToAction("Login", "Account");
             }

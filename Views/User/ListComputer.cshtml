@@ -32,15 +32,32 @@
                                 <td>@c.Cost $</td>
                                 @if(@c.Status == true) {
                                     <td>On</td>
+                                    <td>In Use</td>
                                 }
                                 else {
                                     <td>Off</td>
                                     <td>
-                                    <form asp-action="Home" asp-controller="User" method="get" class="bg-white">
-                                        <input type="hidden" name="id" value="@c.Id">
-                                        <button type="submit" class="btn chooseBtn">Choose</button>
-                                    </form>
-                                </td>
+                                        @{
+                                            decimal money = 0;
+                                            decimal.TryParse(Context.Session.GetString("Money"), out money);
+                                        }
+                                        @if (@c.Status == false && @Context.Session.GetInt32("IsUsing") == 0) {
+                                            @if (money > 0)
+                                            {
+                                                <form asp-action="Home" asp-controller="User" method="get" class="bg-white">
+                                                    <input type="hidden" name="id" value="@c.Id">
+                                                    <button type="submit" class="btn chooseBtn">Choose</button>
+                                                </form>
+                                            }
+                                            else {
+                                                <span class="bg-white">X</span>
+                                            }
+                                        }
+                                        @if (@Context.Session.GetInt32("IsUsing") == 1) {
+                                            <span class="bg-white">X</span>
+                                        }
+
+                                    </td>
                                 }
                             </tr>
                         }

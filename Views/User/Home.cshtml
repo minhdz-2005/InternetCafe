@@ -14,14 +14,13 @@
     <main class="mainsite mb-4">
         <input type="hidden" id="homeState" value="@(Model == null ? "login" : "using")" />
 
-
         <div class="mainBox text-center" id="homeLogin" style="display: none;">
             <h1 class="welcome">Welcome!</h1>
             <span class="fs-4">@Context.Session.GetString("Name")</span>
         </div>
 
         <div class="mainBox text-center" id="homeUsing" style="display: none;">
-            <span class="title">Using COMPUTER</span>
+            <span class="title">USING COMPUTER</span>
             <div class="info mt-4">
                 @if (@Model != null) {
                     <div class="infoLine">
