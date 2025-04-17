@@ -89,6 +89,14 @@ public class UserController : Controller {
                 _context.SaveChanges();
 
                 HttpContext.Session.SetString("Money", u.Money.ToString("0.00"));
+
+                decimal t = timeEnd - timeStart;
+                int h = (int)t;
+                int m = (int)(t - (int)t)*60;
+                int s = (int)(((t - (int)t)*60 - (int)((t - (int)t)*60))*60);
+                TimeSpan time = new TimeSpan(h, m, s);
+
+                _context.UsedInfo.Add(new UsedInfo(u.Id, c.Id, time, dateTime, usedModel.Cost));
             }
         }
         return View(usedModel);

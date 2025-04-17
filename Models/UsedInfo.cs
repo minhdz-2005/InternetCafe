@@ -15,10 +15,11 @@ public class UsedInfo {
     public decimal Amount { get; set; }
 
     public UsedInfo() {}
-    public UsedInfo (int userId, int computerId, TimeSpan time, DateTime date) {
+    public UsedInfo (int userId, int computerId, TimeSpan time, DateTime date, decimal amount) {
         UserId = userId;
         ComputerId = computerId;
         UsedTime = time;
         Date = date;
+        Amount = amount;
     }
 }
