@@ -16,7 +16,11 @@ public class UserController : Controller {
         if (i == null) i = 0;
 
         var us = _context.ActiveUserComputer.FirstOrDefault(x => x.ComputerId == i);
-        if(us != null) usingModel = us;
+        if(us != null) {
+            usingModel = us;
+            HttpContext.Session.SetInt32("useState", usingModel.ComputerId);
+            i = usingModel.ComputerId;
+        }
 
         if(i == 0 && id == null) {
             Console.WriteLine("if 1");
@@ -74,6 +78,8 @@ public class UserController : Controller {
             decimal timeEnd = usedModel.EndTime.Hour + (decimal)usedModel.EndTime.Minute/60 + (decimal)usedModel.EndTime.Second/3600;
             decimal timeStart = dateTime.Hour + (decimal)dateTime.Minute/60 + (decimal)dateTime.Second/3600;
             usedModel.Cost = c.Cost * (timeEnd - timeStart);
+
+            c.Revenue += usedModel.Cost;
 
             int? userId = HttpContext.Session.GetInt32("UserId");
 
