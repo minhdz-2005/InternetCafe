@@ -1,8 +1,10 @@
 using InternetCafe.Data;
 using InternetCafe.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 namespace InternetCafe.Controllers;
+[Authorize]
 public class ManagerController : Controller {
     private readonly InternetCafeContext _context;
     public ManagerController (InternetCafeContext context) {

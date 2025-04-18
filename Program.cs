@@ -5,6 +5,13 @@ using InternetCafe.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddAuthentication("Auth").AddCookie("Auth", options =>
+{
+    options.LoginPath = "/Account/Login";
+    options.AccessDeniedPath = "/Account/Login";
+});
+builder.Services.AddAuthorization();
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -34,9 +41,11 @@ if (!app.Environment.IsDevelopment())
 
 app.UseSession();
 
-app.UseHttpsRedirection();
-app.UseRouting();
 
+app.UseHttpsRedirection();
+
+app.UseRouting();
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapStaticAssets();

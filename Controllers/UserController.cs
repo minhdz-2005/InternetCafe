@@ -1,8 +1,10 @@
 using InternetCafe.Data;
 using InternetCafe.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace InternetCafe.Controllers;
+[Authorize]
 public class UserController : Controller {
     private readonly InternetCafeContext _context;
     public UserController (InternetCafeContext context) {
