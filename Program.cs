@@ -23,23 +23,6 @@ builder.Services.AddSession();
 
 var app = builder.Build();
 
-// using (var scope = app.Services.CreateScope()) {
-//     var db = scope.ServiceProvider.GetRequiredService<ComputerSevice>();
-
-    
-//     for (int i = 1; i <= 10; i++) {
-//         var c = db.GetById(i);
-//         if(c != null) {
-//             Random r = new Random();
-//             decimal randomDecimal = Math.Round(10 + (decimal)(r.NextDouble() * (100 - 10)), 2);
-//             c.Revenue = randomDecimal;
-//             db.Update(i, c);
-//         }
-//     }
-
-    
-// }
-
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

@@ -1,13 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using InternetCafe.Models;
 using InternetCafe.Data;
-using Microsoft.EntityFrameworkCore;
-using InternetCafe.Services;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.IdentityModel.Tokens;
 namespace InternetCafe.Controllers;
-
-
 
 public class AccountController : Controller {
     private readonly InternetCafeContext _context;
@@ -42,7 +36,7 @@ public class AccountController : Controller {
                     return RedirectToAction ("Home", "User");
                 }
             }
-            else ModelState.AddModelError("", "Invalid username or password");
+            else ModelState.AddModelError("", "Invalid username or password !");
         }
         return View(a);
     }
