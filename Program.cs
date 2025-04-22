@@ -30,6 +30,18 @@ builder.Services.AddSession();
 
 var app = builder.Build();
 
+// TEST CRUD
+// using (var scope = app.Services.CreateScope()) {
+//     var db = scope.ServiceProvider.GetRequiredService<ComputerSevice>();
+
+//     var ListC = db.GetAll();
+//     foreach (var c in ListC) {
+//         c.Revenue = 0m;
+//         db.Update(c.Id, c);
+//     }
+//     var db1 = scope.ServiceProvider.GetRequiredService<UsedInfoSevice>();
+//     db1.Delete(1);
+// }
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -40,7 +52,6 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseSession();
-
 
 app.UseHttpsRedirection();
 
@@ -54,6 +65,5 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Account}/{action=Login}/{id?}")
     .WithStaticAssets();
-
 
 app.Run();
