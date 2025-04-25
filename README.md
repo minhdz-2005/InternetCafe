@@ -3,9 +3,10 @@
 .NET Programming Exercise: Build a simple website using C# Programming Language, using ASP.NET Core and 3 Layer Model MVC (Model - View - Controller).
 - Programming Language: C#
 - Database: SQL Server
-- Framework: Entity Framework Core
+- Framework: ASP.NET Core, Entity Framwork Core
 
 About this project:
+This is the learning project
 ... descriptions //
 
 How to install:
